@@ -165,3 +165,6 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 @import "_includes/_blog";
 
 
+// - - - - - - - - - - Added by Andrea for special purposes
+
+@import "_includes/_people";

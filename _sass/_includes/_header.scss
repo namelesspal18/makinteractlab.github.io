@@ -42,11 +42,11 @@
 .header__logo {
 	display: block;
 	width: $logo-width;
-	max-width: 80%;
+	// max-width: 80%;
 
 	@include mq(tabletp) {
 		float: left;
-		max-width: 50%;
+		// max-width: 50%;
 	}
 }
 
@@ -76,7 +76,10 @@
 }
 
 .header__tagline {
-	margin-top: 20px;
+	display: block;
+	clear: left;
+	margin-top: 30px;
+	margin-bottom: 50px;
 	font-size: $sitetagline-small;
 	font-weight: $sitetagline-weight;
 	letter-spacing: $sitetagline-spacing;

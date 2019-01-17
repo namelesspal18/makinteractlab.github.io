@@ -1,0 +1,33 @@
+.people_name 
+{}
+
+
+.people_name h6 {
+    margin-top: 15px;
+    font-size: $h6-small;
+    font-weight: $h6-weight;
+    // line-height: $h6-lineheight;
+    letter-spacing: 0;
+    @include mq(tabletp) {
+        font-size: $h6-medium;
+    }
+
+    @include mq(laptop) {
+        font-size: $h6-large;
+    }
+}
+
+
+
+
+
+.people_links
+{
+    display: block;
+    float: left;
+}
+
+.people_links a
+{
+
+}
