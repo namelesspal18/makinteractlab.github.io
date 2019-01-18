@@ -1,5 +1,7 @@
 ---
 title: People
+subtitle: 'Meet the makers from MAKinteract Lab'
+
 ---
 
 
@@ -44,18 +46,25 @@ title: People
 
 ---
 
-### How to apply
+### For perspective students and collaborators
 
-We look forward to collaborate with new students, researchers, interns, and external collaborators. Specifically, we are currently searching for students with the following skillset or intersts:
+We look forward to collaborate with new students, researchers, interns, and external collaborators. Specifically, we are currently searching for students with the following interests:
 
 * Physical computing and electronics prototyping
-* Software programming experience
+* Software programming
 * Digital fabrication, 3D CAD and mechanical analysis
 * Analytical skillset and quantitative statistical analysis
 
-Although the lab cannot accept Masters and PhD students directly, you might want to consider
-talking with professor Andrea Bianchi **before** applying to the Industrial Design department at KAIST.
+Prospective students are expected to have interest in these subjects, as well as demonstrated making skills, and to
+have attended courses such as [*Software Prototyping* (ID311) and *Interaction Prototyping*
+(ID220)](http://alsoplantsfly.com/#3).
 
-For further information about the application process please refer to these pages for the [Master](http://id.kaist.ac.kr/index.php?mid=masterp#) and [Ph.D.](http://id.kaist.ac.kr/index.php?mid=phdp) programs.
+Finally, the lab cannot directly accept candidates, who instead are required to apply through the [KAIST
+portal](https://admission.kaist.ac.kr/international/). For
+further information about the application process please refer to these pages for the [Master](http://id.kaist.ac.kr/index.php?mid=masterp#) and [Ph.D.](http://id.kaist.ac.kr/index.php?mid=phdp) programs.
 
+Nevertheless, **before** applying you you might want to consider talking with professor Andrea Bianchi.
 
+Feel free to contact us for further questions 
+
+<a href="{{ page.contact }}" class="button button--large">Contact us</a>

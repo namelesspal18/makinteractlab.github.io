@@ -33,3 +33,9 @@ Index is packed with powerful features to showcase your work:
 Index is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $29.
 
 <a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+
+---
+
+### About KAIST
+
+[KAIST](https://en.wikipedia.org/wiki/KAIST) (formally the Korea Advanced Institute of Science and Technology) is a national research university located in  Daejeon, South Korea, currently ranked **top #40** in the world according to the [QS ranking 2019](https://www.topuniversities.com/university-rankings/world-university-rankings/2019).
