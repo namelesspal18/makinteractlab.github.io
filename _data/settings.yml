@@ -1,20 +1,18 @@
 basic_settings:
   site_title: MAKinteract Lab
-  site_tagline: Thinking by making. Making for thinking.
+  site_tagline: Thinking by making.<br>Making for thinking.
   favicon_image: /images/favicon.ico
 
 header_settings:
   logo_image: /images/logo_small.jpg
-  logo_width: 300
+  logo_width: 350
 
 menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
-    - title: 'About the Lab'
-      url: '/about'
-    - title: 'People'
-      url: '/people'
+    - title: 'The Lab'
+      url: '/lab'
     - title: 'Contact'
       url: '/contact'
 
@@ -83,9 +81,9 @@ font_settings:
     weight: 500
     letter_spacing: -0.02
   site_tagline:
-    small_size: 13
-    medium_size: 13
-    large_size: 13
+    small_size: 20
+    medium_size: 20
+    large_size: 20
     weight: 300
     letter_spacing: 0
     line_height: 1.5

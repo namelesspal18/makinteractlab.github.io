@@ -19,6 +19,16 @@
     margin:auto;
 }
 
+
+.people h5 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 100%;
+    font-size: 100%;
+    font-weight: bold;
+}
+
 .people h6
 {
     margin: 0;
@@ -48,3 +58,15 @@
 }
 
 .current{}
+
+.img-container {
+    position: relative;
+    text-align: center;
+}
+
+.text-overlay {
+    position: absolute;
+    top: 4px;
+    right: 16px;
+    color: #EE2A7C;
+}
