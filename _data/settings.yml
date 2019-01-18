@@ -1,6 +1,6 @@
 basic_settings:
   site_title: MAKinteract Lab
-  site_tagline: Thinking by making.<br>Making for thinking.
+  site_tagline: Thinking by making. Making for thinking.
   favicon_image: /images/favicon.ico
 
 header_settings:
@@ -17,7 +17,6 @@ menu_settings:
       url: '/contact'
     - title: 'People'
       url: '/people'
-
 
 grid_settings:
   overlay_opacity: 0.8

@@ -1,0 +1,31 @@
+{% for person in site.data.people offset:1 %}
+
+<div class="col-lg-2 col-md-2 col-sm-2 text-center people">
+    <div class="service-box">
+    <img src="/images/people/{{ person.name | append: '_' | append: person.lastname | append: '.jpg' | downcase  }}" alt="{{person.name}}" class="rounded-circle {{person.status}}">
+        <h6>{{person.name}}<br>{{person.lastname}}</h6>
+        <b>{{person.position}}</b>
+        <div class="icons">
+            {% if person.homepage %}<a href="{{person.homepage}}"><i class="fas fa-home" aria-hidden="true"></i></a>
+            {%endif%}
+            {% if person.github %}
+            <a href="http://github.com/{{person.github}}"><i class="fab fa-github" aria-hidden="true"></i></a>
+            {% endif %}
+            {% if person.linkedin %}
+            <a href="https://www.linkedin.com/in/{{person.linkedin}}"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a>
+            {% endif %}
+            {% if person.facebook %}
+            <a href=""><i class="fab fa-facebook" aria-hidden="true"></i></a>
+            {%endif%}
+            {% if person.scholar %}
+            <a href="https://scholar.google.co.kr/citations?user={{person.scholar}}"><i class="fas fa-graduation-cap"
+                    aria-hidden="true"></i></a>
+            {% endif %}
+            {% if person.email %}
+            <a href="mailto:{{person.email}}" target="_blank"><i class="fas fa-envelope"></i></a>
+            {% endif %}
+
+        </div>
+    </div>
+</div>
+{% endfor %}

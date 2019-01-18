@@ -1,33 +1,50 @@
-.people_name 
-{}
-
-
-.people_name h6 {
-    margin-top: 15px;
-    font-size: $h6-small;
-    font-weight: $h6-weight;
-    // line-height: $h6-lineheight;
-    letter-spacing: 0;
-    @include mq(tabletp) {
-        font-size: $h6-medium;
-    }
-
-    @include mq(laptop) {
-        font-size: $h6-large;
-    }
+.container-fluid
+{
+    margin-top: 50px;
 }
 
-
-
-
-
-.people_links
+.professor 
 {
+    margin-bottom: 500px
+}
+
+.people 
+{
+    margin-bottom: 50px;
     display: block;
-    float: left;
 }
 
-.people_links a
+.people img
 {
-
+    margin:auto;
 }
+
+.people h6
+{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 100%;
+    font-size: 90%;
+}
+
+.people b {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 100%;
+    font-size: 70%;
+}
+
+.people .icons
+{
+    margin-top: 10px;
+}
+
+.alumni {
+    -webkit-filter: grayscale(100%);
+    /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+
+.current{}
