@@ -1,6 +1,6 @@
 ---
 title: MAKinteract Lab
-subtitle: 'Where engineering meets design'
+# subtitle: 'Where engineering meets design'
 ---
 
 **MAKinteract Lab** (**MAK**E + **interact**ion) is a research group composed of makers, designers, inventors, and
@@ -58,7 +58,7 @@ Through user-centered design, fabrication, iterative prototyping and users studi
     <h5 class="text-overlay">Few hours before the CHI deadline...</h5>
 </div>
 
-<!-- ![](/images/demo/test.jpg) -->
+<!-- ![](/images/demo/group.jpg) -->
 
 ### About KAIST
 
