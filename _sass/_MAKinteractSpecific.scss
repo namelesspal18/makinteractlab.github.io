@@ -1,22 +1,20 @@
-.container-fluid
-{
+// PEOPLE
+
+.container-fluid {
     margin-top: 50px;
 }
 
-.professor 
-{
+.professor {
     margin-bottom: 500px
 }
 
-.people 
-{
+.people {
     margin-bottom: 50px;
     display: block;
 }
 
-.people img
-{
-    margin:auto;
+.people img {
+    margin: auto;
 }
 
 
@@ -29,8 +27,7 @@
     font-weight: bold;
 }
 
-.people h6
-{
+.people h6 {
     margin: 0;
     padding: 0;
     width: 100%;
@@ -46,18 +43,11 @@
     font-size: 70%;
 }
 
-.people .icons
-{
+.people .icons {
     margin-top: 10px;
 }
 
-.alumni {
-    -webkit-filter: grayscale(100%);
-    /* Safari 6.0 - 9.0 */
-    filter: grayscale(100%);
-}
-
-.current{}
+.current {}
 
 .img-container {
     position: relative;
@@ -69,4 +59,28 @@
     top: 4px;
     right: 16px;
     color: #EE2A7C;
+}
+
+
+// SPONSORS
+.sponsor {
+    height: 150px;
+    display: flex;
+    align-items: center;
+    /* horizontal */
+    justify-content: center;
+    /* vertical */
+}
+
+.sponsor img {
+    display: block;
+    float: left;
+    margin: auto;
+}
+
+
+.greyscale {
+    -webkit-filter: grayscale(100%);
+    /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
 }

@@ -42,6 +42,7 @@
 .header__logo {
 	display: block;
 	width: $logo-width;
+	margin-bottom: 10%;
 	// max-width: 80%;
 
 	@include mq(tabletp) {

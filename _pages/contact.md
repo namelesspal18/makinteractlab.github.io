@@ -4,13 +4,9 @@ subtitle: Drop us a line for questions or suggestions.
 description: Contact MAKinteract lab
 ---
 
-
-
 {% include contact-form.html %}
 
 ---
-
-### How to reach us
 
 KAIST is located in the beautiful city of [Daejeon](https://en.wikipedia.org/wiki/Daejeon), easily accessible from
 Seoul or the Incheon Airport by public transportation.
@@ -39,3 +35,11 @@ Seoul or the Incheon Airport by public transportation.
         </div>
     </div>
 </div>
+
+---
+
+### About KAIST
+
+[KAIST](https://en.wikipedia.org/wiki/KAIST) (formally the Korea Advanced Institute of Science and Technology) is a
+national research university located in Daejeon, South Korea, currently ranked **top #40** in the world according to
+the [QS ranking 2019](https://www.topuniversities.com/university-rankings/world-university-rankings/2019).

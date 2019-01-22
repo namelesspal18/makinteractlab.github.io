@@ -2,7 +2,8 @@
 
 <div class="col-lg-2 col-md-2 col-sm-2 text-center people">
     <div class="service-box">
-    <img src="/images/people/{{ person.name | append: '_' | append: person.lastname | append: '.jpg' | downcase  }}" alt="{{person.name}}" class="rounded-circle {{person.status}}">
+<img src="/images/people/{{ person.name | append: '_' | append: person.lastname | append: '.jpg' | downcase  }}" alt="{{person.name}}"
+class="rounded-circle {% if person.status == 'alumni' %} greyscale {% endif %}">
         <h6>{{person.name}}<br>{{person.lastname}}</h6>
         <b>{{person.position}}</b>
         <div class="icons">
