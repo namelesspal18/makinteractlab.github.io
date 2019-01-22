@@ -57,7 +57,7 @@ Through user-centered design, fabrication, iterative prototyping and users studi
     <h5 class="text-overlay">Few hours before the CHI deadline...</h5>
 </div>
 
-<!-- ![](/images/demo/group.jpg) -->
+<!-- ![](/images/people/group.jpg) -->
 
 
 ### Collaborators
@@ -95,7 +95,7 @@ have attended courses such as [*Software Prototyping* (ID311) and *Interaction P
 Finally, the lab cannot directly accept candidates, who instead are required to apply through the [KAIST
 admission site](https://admission.kaist.ac.kr/international/). For
 further information about the application process please refer to these pages for the
-[Master](http://id.kaist.ac.kr/index.php?mid=masterp#) and [Ph.D.](http://id.kaist.ac.kr/index.php?mid=phdp) programs.
+[Master](http://id.kaist.ac.kr/index.php?mid=masterp#), [Ph.D.](http://id.kaist.ac.kr/index.php?mid=phdp), and Master+Ph.D combined programs.
 
 Nevertheless, **before** applying you you might want to consider talking with professor Andrea Bianchi.
 

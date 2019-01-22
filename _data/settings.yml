@@ -5,7 +5,7 @@ basic_settings:
 
 header_settings:
   logo_image: /images/logo_small.jpg
-  logo_width: 350
+  logo_width: 250
 
 menu_settings:
   menu_items:
@@ -21,7 +21,7 @@ menu_settings:
 
 grid_settings:
   overlay_opacity: 0.8
-  grid_spacing: 20
+  grid_spacing: 10
 
 contact_settings:
   form_action: 'https://formspree.io/andrea@kaist.ac.kr'
@@ -32,7 +32,7 @@ contact_settings:
 social_settings:
   github_url: 'https://github.com/makinteractlab'
   youtube_url: 'https://www.youtube.com/channel/UC5A_g3GYEGeoqBqSSJ11NoQ?view_as=subscriber'
-  facebook_url: 'asdf'
+  facebook_url: ''
   vimeo_url: 'https://vimeo.com/minimalo'
   twitter_url: ''
   instagram_url: ''
