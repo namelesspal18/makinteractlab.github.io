@@ -53,11 +53,9 @@ Through user-centered design, fabrication, iterative prototyping and users studi
 </div>
 
 <div class="img-container">
-    <img src="/images/demo/test.jpg" alt="The Lab" style="width:100%;">
+    <img src="/images/people/group.jpg" alt="The Lab" style="width:100%;">
     <h5 class="text-overlay">Few hours before the CHI deadline...</h5>
 </div>
-
-<!-- ![](/images/people/group.jpg) -->
 
 
 ### Collaborators
@@ -71,7 +69,7 @@ Our research was possible also thanks to numerous collaborators:
 [Aaron Quigley](https://sachi.cs.st-andrews.ac.uk/people/faculty/aaron-quigley/) and [Hui-Shyong](https://hsyeo.com) (University of St Andrews), 
 [Hamed Alavi](http://hamedalavi.com) and [Himanshu Verma](http://human-ist.unifr.ch/people-and-team/himanshu-verma) (University of Fribourg),
 [Youngjun Cho](https://uclic.ucl.ac.uk) (UCL), 
-[Hyeon-Jeong](Suk http://color.kaist.ac.kr) (KAIST Design), 
+[Hyeon-Jeong Suk](Suk http://color.kaist.ac.kr) (KAIST Design), 
 [Geehyuk Lee](http://hcil.kaist.ac.kr/?page_id=349) (KAIST School of Computing), 
 [Hyoungshick Kim](https://seclab.skku.edu) (SKKU).
 
