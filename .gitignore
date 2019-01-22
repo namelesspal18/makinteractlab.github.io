@@ -1,2 +1,3 @@
 /_site/prepros-6.config
 /_site/**
+.DS_Store
