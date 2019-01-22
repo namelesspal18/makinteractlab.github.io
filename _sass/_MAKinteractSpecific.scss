@@ -1,0 +1,87 @@
+// PEOPLE
+
+.container-fluid {
+    margin-top: 50px;
+}
+
+.professor {
+    margin-bottom: 500px
+}
+
+.people {
+    margin-bottom: 50px;
+    display: block;
+}
+
+.people img {
+    margin: auto;
+}
+
+
+.people h5 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 100%;
+    font-size: 100%;
+    font-weight: bold;
+}
+
+.people h6 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 100%;
+    font-size: 90%;
+}
+
+.people b {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 100%;
+    font-size: 70%;
+}
+
+.people .icons {
+    margin-top: 10px;
+}
+
+.current {}
+
+.img-container {
+    position: relative;
+    text-align: center;
+}
+
+.text-overlay {
+    position: absolute;
+    top: 4px;
+    right: 16px;
+    color: #EE2A7C;
+}
+
+
+// SPONSORS
+.sponsor {
+    height: 150px;
+    display: flex;
+    align-items: center;
+    /* horizontal */
+    justify-content: center;
+    /* vertical */
+}
+
+.sponsor img {
+    display: block;
+    float: left;
+    margin: auto;
+}
+
+
+.greyscale {
+    -webkit-filter: grayscale(100%);
+    /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+
