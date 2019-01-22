@@ -2,7 +2,7 @@
 title: tactoRing
 subtitle: "A Skin-Drag Discrete Display"
 year: 2017
-featured_image: /images/projects/tactoring1.jpg # width must be 1600px	
+featured_image: /images/projects/tactoring.jpg # width must be 1600px	
 ---
 
 <!-- 
@@ -23,7 +23,7 @@ Smart rings are an emerging wearable technology particularly suitable for discre
 
 Seungwoo Je, Brendan Rooney, Liwei Chan, and Andrea Bianchi. 2017. **tactoRing: A Skin-Drag Discrete Display**. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI '17). ACM, New York, NY, USA, 3106-3114. DOI: https://doi.org/10.1145/3025453.3025703
 
-[paper](https://google.com)&nbsp;&nbsp;&nbsp;
+[paper](/files/2017/Je_tactoRing_CHI17.pdf){:target="_blank"}&nbsp;&nbsp;&nbsp;
 [doi](https://doi.org/10.1145/3025453.3025703)&nbsp;&nbsp;&nbsp;
 
 --- 
