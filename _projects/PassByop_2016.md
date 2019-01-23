@@ -26,7 +26,7 @@ PassBYOP is a new graphical password scheme for public terminals that replaces t
 
 ### References
 
-Andrea Bianchi, Ian Oakley and Hyoungshick Kim, **PassBYOP: Bring Your Own Picture for Securing Graphical Passwords**. IEEE Transactions on Human-Machine Systems, vol. 46, no. 3, pp. 380-389, June 2016.
+Andrea Bianchi, Ian Oakley and Hyoungshick Kim. 2016. **PassBYOP: Bring Your Own Picture for Securing Graphical Passwords**. In IEEE Transactions on Human-Machine Systems, vol. 46, no. 3, pp. 380-389, June 2016.
 
 <!-- DO NOT CHANGE MANUALLY -->
 <a href="http://makinteract.kaist.ac.kr/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
