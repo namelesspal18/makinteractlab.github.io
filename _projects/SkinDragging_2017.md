@@ -5,7 +5,7 @@ year: 2017
 featured_image: /images/projects/skinDragging1.jpg # width must be 1600px	
 pdf_file: Je_SkinDraggingMotions_ISWC17.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/3123021.3123050
-sideMenu: true
+featured: false
 ---
 
 

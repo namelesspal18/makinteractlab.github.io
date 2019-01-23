@@ -5,7 +5,7 @@ year: 2017
 featured_image: /images/projects/specam.jpg # width must be 1600px	
 pdf_file: Yeo_SpeCam_MHCI17.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/3098279.3098541
-sideMenu: true
+featured: false
 ---
 
 <!-- 

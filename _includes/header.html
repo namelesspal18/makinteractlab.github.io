@@ -33,7 +33,7 @@
 			<ul class="menu__list">
 				{% assign allPrjs = site.projects | sort: 'year'  %}
 				{% for project in allPrjs reversed %}
-				{% if project.sideMenu == true %}
+				{% if project.featured == true %}
 				<li class="menu__list__item">
 					<a href="{{ project.url }}" class="menu__list__item__link">{{ project.title }}</a>
 				</li>

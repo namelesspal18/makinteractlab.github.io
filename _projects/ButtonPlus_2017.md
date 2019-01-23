@@ -5,7 +5,7 @@ year: 2017
 featured_image: /images/projects/buttonPlus.jpg # width must be 1600px	
 pdf_file: Suh_Button+_TEI17.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/3024969.3024980
-sideMenu: true
+featured: true
 ---
 
 <!-- 

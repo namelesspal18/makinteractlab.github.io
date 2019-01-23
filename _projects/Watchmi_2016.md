@@ -5,7 +5,7 @@ year: 2016
 featured_image: /images/projects/watchmi.jpg # width must be 1600px	
 pdf_file: Yeo_Watchmi_MHCI16 # put file in the directory FILES
 doi_link: https://doi.org/10.1145/2935334.2935375
-sideMenu: true
+sideMenu: false
 ---
 
 

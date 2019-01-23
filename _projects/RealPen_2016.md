@@ -5,7 +5,7 @@ year: 2016
 featured_image: /images/projects/realpen.jpg # width must be 1600px	
 pdf_file: Cho_RealPen_UIST16.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/2984511.2984550
-sideMenu: true
+featured: true
 ---
 
 <!-- 
