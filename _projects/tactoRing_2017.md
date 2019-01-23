@@ -32,4 +32,4 @@ Seungwoo Je, Brendan Rooney, Liwei Chan, and Andrea Bianchi. 2017. **tactoRing: 
 
 --- 
 
-<a href="projects.html" class="button button--large">Back to projects</a>
+<a href="http://makinteract.kaist.ac.kr" class="button button--large">Back to projects</a>

@@ -32,4 +32,4 @@ Seungwoo Je, Okyu Choi, Kyungah Choi, Minkyeong Lee, Hyeon-Jeong Suk, Liwei Chan
 
 --- 
 
-<a href="projects.html" class="button button--large">Back to projects</a>
+<a href="http://makinteract.kaist.ac.kr" class="button button--large">Back to projects</a>

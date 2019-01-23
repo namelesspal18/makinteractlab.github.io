@@ -32,4 +32,4 @@ Seungwoo Je, Minkyeong Lee, Yoonji Kim, Liwei Chan, Xing-Dong Yang, and Andrea B
 
 --- 
 
-<a href="projects.html" class="button button--large">Back to projects</a>
+<a href="http://makinteract.kaist.ac.kr" class="button button--large">Back to projects</a>

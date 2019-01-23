@@ -41,4 +41,4 @@ Hui-Shyong Yeo, Juyoung Lee, Andrea Bianchi, and Aaron Quigley. 2016. **Sidetap 
 
 --- 
 
-<a href="projects.html" class="button button--large">Back to projects</a>
+<a href="http://makinteract.kaist.ac.kr" class="button button--large">Back to projects</a>
