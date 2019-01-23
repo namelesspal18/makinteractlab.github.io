@@ -28,6 +28,8 @@
 
 .header__content {
 
+	overflow: hidden;
+	
 	@include mq(tabletl) {
 		position: relative;
 		min-height: 100vh;
