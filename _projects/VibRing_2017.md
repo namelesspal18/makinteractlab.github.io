@@ -5,6 +5,7 @@ year: 2017
 featured_image: /images/projects/vibRing.jpg # width must be 1600px	
 pdf_file: Bianchi_Vibring_AH2017.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/3041164.3041196
+sideMenu: true
 ---
 
 <!-- 
@@ -34,4 +35,4 @@ Andrea Bianchi and Seungwoo Je. 2017. **Disambiguating touch with a smart-ring**
 
 --- 
 
-<a href="projects.html" class="button button--large">Back to projects</a>
+<a href="/index.html" class="button button--large">Back to projects</a>

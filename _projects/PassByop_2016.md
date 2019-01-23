@@ -6,6 +6,7 @@ year: 2016
 featured_image: /images/projects/passBYOP.jpg # width must be 1600px	
 pdf_file: Bianchi_Passbyop_IEEE16.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1109/THMS.2015.2487511
+sideMenu: true
 ---
 
 <!-- 
@@ -34,4 +35,4 @@ Andrea Bianchi, Ian Oakley and Hyoungshick Kim. 2016. **PassBYOP: Bring Your Own
 
 --- 
 
-<a href="http://makinteract.kaist.ac.kr" class="button button--large">Back to projects</a>
+<a href="/index.html" class="button button--large">Back to projects</a>

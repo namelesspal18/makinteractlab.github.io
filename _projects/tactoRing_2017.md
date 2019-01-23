@@ -5,6 +5,7 @@ year: 2017
 featured_image: /images/projects/tactoring.jpg # width must be 1600px	
 pdf_file: Je_tactoRing_CHI17.pdf
 doi_link: https://doi.org/10.1145/3025453.3025703
+sideMenu: true
 ---
 
 <!-- 
@@ -32,4 +33,4 @@ Seungwoo Je, Brendan Rooney, Liwei Chan, and Andrea Bianchi. 2017. **tactoRing: 
 
 --- 
 
-<a href="http://makinteract.kaist.ac.kr" class="button button--large">Back to projects</a>
+<a href="/index.html" class="button button--large">Back to projects</a>

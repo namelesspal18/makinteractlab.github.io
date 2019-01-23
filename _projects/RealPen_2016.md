@@ -5,6 +5,7 @@ year: 2016
 featured_image: /images/projects/realpen.jpg # width must be 1600px	
 pdf_file: Cho_RealPen_UIST16.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/2984511.2984550
+sideMenu: true
 ---
 
 <!-- 
@@ -35,4 +36,4 @@ Youngjun Cho, Andrea Bianchi, Nicolai Marquardt, and Nadia Bianchi-Berthouze. 20
 
 --- 
 
-<a href="http://makinteract.kaist.ac.kr" class="button button--large">Back to projects</a>
+<a href="/index.html" class="button button--large">Back to projects</a>

@@ -5,6 +5,7 @@ year: 2017
 featured_image: /images/projects/buttonPlus.jpg # width must be 1600px	
 pdf_file: Suh_Button+_TEI17.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/3024969.3024980
+sideMenu: true
 ---
 
 <!-- 
@@ -33,4 +34,4 @@ Jihoon Suh, Wooshik Kim, and Andrea Bianchi. 2017. **Button+: Supporting User an
 
 --- 
 
-<a href="http://makinteract.kaist.ac.kr" class="button button--large">Back to projects</a>
+<a href="/index.html" class="button button--large">Back to projects</a>
