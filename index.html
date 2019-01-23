@@ -11,7 +11,9 @@ featured_image: /images/social.jpg
 
 	<div class="content-wrap portfolio-wrap">
 
-		{% for project in site.projects reversed %}
+		{% assign allPrjs = site.projects | sort: 'year'  %}
+
+		{% for project in allPrjs reversed %}
 
 		<div class="portfolio-item">
 
