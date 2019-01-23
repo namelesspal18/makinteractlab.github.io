@@ -31,7 +31,8 @@
 
 		<div class="projects-menu">
 			<ul class="menu__list">
-				{% for project in site.projects reversed %}
+				{% assign allPrjs = site.projects | sort: 'year'  %}
+				{% for project in allPrjs reversed %}
 				<li class="menu__list__item">
 					<a href="{{ project.url }}" class="menu__list__item__link">{{ project.title }}</a>
 				</li>
