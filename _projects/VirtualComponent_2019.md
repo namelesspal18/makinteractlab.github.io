@@ -2,7 +2,7 @@
 title: VirtualComponent
 subtitle: "a Mixed-Reality Tool for Designing and Tuning Breadboarded Circuits"
 year: 2019
-featured_image: /images/projects/pokering.jpg # width must be 1600px	
+featured_image: /images/projects/virtualComponent.jpg # width must be 1600px	
 pdf_file: Kim_VirtualComponent_CHI19 # put file in the directory FILES
 doi_link: https://doi.org/
 featured: true
@@ -26,11 +26,11 @@ Prototyping electronic circuits is an increasingly popular activity, supported b
 
 ### References
 
-Yoonji Kim, Youngkyung Choi, Hyein Lee, Geehyuk Lee, Andrea Bianchi. 2019. **VirtualComponent: a Mixed-Reality Tool for Designing and Tuning Breadboarded Circuits**. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19).
+Yoonji Kim, Youngkyung Choi, Hyein Lee, Geehyuk Lee, Andrea Bianchi. 2019. **VirtualComponent: a Mixed-Reality Tool for Designing and Tuning Breadboarded Circuits**. To appear in Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19).
 
 <!-- DO NOT CHANGE MANUALLY -->
-<a href="http://makinteract.kaist.ac.kr/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
-<a href="{{ page.doi_link }}" target="_blank">doi</a>
+<!-- <a href="http://makinteract.kaist.ac.kr/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
+<a href="{{ page.doi_link }}" target="_blank">doi</a> -->
 
 --- 
 
