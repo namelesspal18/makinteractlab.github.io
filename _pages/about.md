@@ -1,5 +1,6 @@
 ---
 title: The Lab
+description: About the MAKinteract lab at KAIST
 ---
 
 **MAKinteract** (**MAK**E + **interact**ion) is a research lab in the department of [Industrial

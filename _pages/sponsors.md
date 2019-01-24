@@ -1,6 +1,6 @@
 ---
 title: Sponsors
-# subtitle: 'Who made it possible'
+description: Who supported the MAKinteract lab at KAIST
 ---
 
 Our research was only possible thanks to the kind support of funding agencies, companies and the Korean government.
