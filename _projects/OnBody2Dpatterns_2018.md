@@ -24,7 +24,7 @@ As robotic telepresence is becoming more common and receives academic and indust
 Minkyeong Lee, Okyu Choi, Hyelip Lee, Bum-Jae You, Minsoo Han, Andrea Bianchi. 2018. **Designing On-Body 2D Patterns to Enhance Subsidiary Communication for Telepresence Robots**. In 2018 27th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN).
 
 <!-- DO NOT CHANGE MANUALLY -->
-<a href="http://makinteract.kaist.ac.kr/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
+<a href="/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
 <a href="{{ page.doi_link }}" target="_blank">doi</a>
 
 --- 

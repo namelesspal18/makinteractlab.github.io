@@ -28,7 +28,7 @@ Smart-rings are ideal for subtle and always-available haptic notifications due t
 Seungwoo Je, Minkyeong Lee, Yoonji Kim, Liwei Chan, Xing-Dong Yang, and Andrea Bianchi. 2018. **PokeRing: Notifications by Poking Around the Finger**. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA, Paper 542, 10 pages. DOI: https://doi.org/10.1145/3173574.3174116
 
 <!-- DO NOT CHANGE MANUALLY -->
-<a href="http://makinteract.kaist.ac.kr/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
+<a href="/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
 <a href="{{ page.doi_link }}" target="_blank">doi</a>
 
 --- 

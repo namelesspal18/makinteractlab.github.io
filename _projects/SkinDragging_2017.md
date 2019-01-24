@@ -28,7 +28,7 @@ Skin-dragging is an emerging type of haptic feedback that coveys both precise sp
 Seungwoo Je, Okyu Choi, Kyungah Choi, Minkyeong Lee, Hyeon-Jeong Suk, Liwei Chan, and Andrea Bianchi. 2017. **Designing skin-dragging haptic motions for wearables**. In Proceedings of the 2017 ACM International Symposium on Wearable Computers (ISWC '17). ACM, New York, NY, USA, 98-101. DOI: https://doi.org/10.1145/3123021.3123050
 
 <!-- DO NOT CHANGE MANUALLY -->
-<a href="http://makinteract.kaist.ac.kr/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
+<a href="/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
 <a href="{{ page.doi_link }}" target="_blank">doi</a>
 
 --- 
