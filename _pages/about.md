@@ -3,6 +3,16 @@ title: The Lab
 description: About the MAKinteract lab at KAIST
 ---
 
+<!-- <a href="#" id="click_me">Click Me</a>
+<script type="text/javascript">
+document.getElementById('click_me').addEventListener("click", function(event) {
+    (function(event) {
+        
+    }).call(document.getElementById('click_me'), event);
+});
+</script> -->
+
+
 **MAKinteract** (**MAK**E + **interact**ion) is a research lab in the department of [Industrial
 Design](http://id.kaist.ac.kr) at [KAIST](http://www.kaist.edu/html/en/index.html) working at the intersection of design and engineering, in the field of Human-Computer Interaction (**HCI**).
 
@@ -36,13 +46,11 @@ Through user-centered design, fabrication, iterative prototyping and users studi
                     <a href=""><i class="fab fa-facebook" aria-hidden="true"></i></a>
                     {%endif%}
                     {% if prof.scholar %}
-                    <a href="https://scholar.google.co.kr/citations?user={{prof.scholar}}"><i class="fas fa-graduation-cap"
-                            aria-hidden="true"></i></a>
+                    <a href="https://scholar.google.co.kr/citations?user={{prof.scholar}}"><i class="fas fa-graduation-cap" aria-hidden="true"></i></a>
                     {% endif %}
                     {% if prof.email %}
-                    <a href="mailto:{{prof.email}}" target="_blank"><i class="fas fa-envelope"></i></a>
+                    <a href="#" onclick="(function(){window.open('mailto:{{ prof.email }}');})()"><i class="fas fa-envelope"></i></a>
                     {% endif %}
-
                 </div>
             </div>
         </div>

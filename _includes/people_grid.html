@@ -23,7 +23,7 @@ class="rounded-circle {% if person.status == 'alumni' %} greyscale {% endif %}">
                     aria-hidden="true"></i></a>
             {% endif %}
             {% if person.email %}
-            <a href="mailto:{{person.email}}" target="_blank"><i class="fas fa-envelope"></i></a>
+            <a href="#" onclick="(function(){window.open('mailto:{{ person.email }}');})()"><i class="fas fa-envelope"></i></a>
             {% endif %}
 
         </div>
