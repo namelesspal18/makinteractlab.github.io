@@ -43,7 +43,7 @@ Through user-centered design, fabrication, iterative prototyping and users studi
                     <a href="https://www.linkedin.com/in/{{prof.linkedin}}"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a>
                     {% endif %}
                     {% if prof.facebook %}
-                    <a href=""><i class="fab fa-facebook" aria-hidden="true"></i></a>
+                    <a href="https://www.facebook.com/{{prof.facebook}}"><i class="fab fa-facebook" aria-hidden="true"></i></a>
                     {%endif%}
                     {% if prof.scholar %}
                     <a href="https://scholar.google.co.kr/citations?user={{prof.scholar}}"><i class="fas fa-graduation-cap" aria-hidden="true"></i></a>

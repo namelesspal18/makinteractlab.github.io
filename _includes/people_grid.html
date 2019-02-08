@@ -16,7 +16,7 @@ class="rounded-circle {% if person.status == 'alumni' %} greyscale {% endif %}">
             <a href="https://www.linkedin.com/in/{{person.linkedin}}"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a>
             {% endif %}
             {% if person.facebook %}
-            <a href=""><i class="fab fa-facebook" aria-hidden="true"></i></a>
+            <a href="https://www.facebook.com/{{person.facebook}}"><i class="fab fa-facebook" aria-hidden="true"></i></a>
             {%endif%}
             {% if person.scholar %}
             <a href="https://scholar.google.co.kr/citations?user={{person.scholar}}"><i class="fas fa-graduation-cap"
