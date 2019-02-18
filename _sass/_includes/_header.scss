@@ -10,6 +10,7 @@
 
 .header {
 	padding: 20px;
+	overflow: hidden;
 
 	@include mq(tabletp) {
 		padding: 40px;
