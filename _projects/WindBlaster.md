@@ -23,6 +23,8 @@ featured: true
 
 Ungrounded haptic force-feedback is a crucial element for applications that aim to immerse users in virtual environments where also mobility is an important component of the experience, like for example Virtual Reality games. In this paper, we present a novel wearable interface that generates a force-feedback by spinning two drone-propellers mounted on a wrist. The device is interfaced with a game running in Unity, and it is capable to render different haptic stimuli mapped to four weapons. A simple evaluation with users demonstrates the feasibility of the proposed approach.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FIdx4W9sazk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### References
 
 Seungwoo Je, Hyelip Lee, Myung Jin Kim, and Andrea Bianchi. 2018. **Wind-blaster: a wearable propeller-based prototype that provides ungrounded force-feedback**. In ACM SIGGRAPH 2018 Emerging Technologies (SIGGRAPH '18). ACM, New York, NY, USA, Article 23, 2 pages. DOI: https://doi.org/10.1145/3214907.3214915
