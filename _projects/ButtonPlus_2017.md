@@ -29,7 +29,7 @@ Smart-rings are ideal for subtle and always-available haptic notifications due t
 Jihoon Suh, Wooshik Kim, and Andrea Bianchi. 2017. **Button+: Supporting User and Context Aware Interaction through Shape-Changing Interfaces**. In Proceedings of the Eleventh International Conference on Tangible, Embedded, and Embodied Interaction (TEI '17). ACM, New York, NY, USA, 261-268. DOI: https://doi.org/10.1145/3024969.3024980
 
 <!-- DO NOT CHANGE MANUALLY -->
-<a href="/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
+<a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
 <a href="{{ page.doi_link }}" target="_blank">doi</a>
 
 --- 
