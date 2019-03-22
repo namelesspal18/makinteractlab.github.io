@@ -30,7 +30,7 @@ Despite the increased popularity of online tools for remote teamwork and meeting
 Hyelip Lee, Seungwoo Je, Andrea Bianchi. 2017. **All4One: A Moderated Sketching Tool for Supporting Idea-Generation with Remote Users**. In Proceedings of IASDR 2017 (International Association of Societies of Design Research 2017)
 
 <!-- DO NOT CHANGE MANUALLY -->
-<a href="/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
+<a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
 <a href="{{ page.doi_link }}" target="_blank">doi</a>
 
 --- 

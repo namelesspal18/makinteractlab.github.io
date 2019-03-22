@@ -30,7 +30,7 @@ Ungrounded haptic force-feedback is a crucial element for applications that aim 
 Seungwoo Je, Hyelip Lee, Myung Jin Kim, and Andrea Bianchi. 2018. **Wind-blaster: a wearable propeller-based prototype that provides ungrounded force-feedback**. In ACM SIGGRAPH 2018 Emerging Technologies (SIGGRAPH '18). ACM, New York, NY, USA, Article 23, 2 pages. DOI: https://doi.org/10.1145/3214907.3214915
 
 <!-- DO NOT CHANGE MANUALLY -->
-<a href="/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
+<a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
 <a href="{{ page.doi_link }}" target="_blank">doi</a>
 
 --- 

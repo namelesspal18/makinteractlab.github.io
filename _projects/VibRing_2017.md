@@ -30,7 +30,7 @@ Capacitive touchscreens have changed the way in which people interact with compu
 Andrea Bianchi and Seungwoo Je. 2017. **Disambiguating touch with a smart-ring**. In Proceedings of the 8th Augmented Human International Conference (AH '17). ACM, New York, NY, USA, Article 27, 5 pages. DOI: https://doi.org/10.1145/3041164.3041196
 
 <!-- DO NOT CHANGE MANUALLY -->
-<a href="/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
+<a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
 <a href="{{ page.doi_link }}" target="_blank">doi</a>
 
 --- 

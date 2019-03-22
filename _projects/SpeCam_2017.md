@@ -29,7 +29,7 @@ SpeCam is a lightweight surface color and material sensing approach for mobile d
 Hui-Shyong Yeo, Juyoung Lee, Andrea Bianchi, David Harris-Birtill, and Aaron Quigley. 2017. **SpeCam: sensing surface color and material with the front-facing camera of a mobile device**. In Proceedings of the 19th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI '17). ACM, New York, NY, USA, Article 25, 9 pages. DOI: https://doi.org/10.1145/3098279.3098541
 
 <!-- DO NOT CHANGE MANUALLY -->
-<a href="/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
+<a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
 <a href="{{ page.doi_link }}" target="_blank">doi</a>
 
 --- 
