@@ -87,19 +87,17 @@ Our research was possible also thanks to numerous collaborators:
 
 ### For perspective students and collaborators
 
-We look forward to collaborate with new students, researchers, interns, and external collaborators. Specifically, we
-are currently searching for students with the following interests:
+We look forward to collaborate with new students, researchers, interns, and external collaborators. Specifically, we are currently searching for students with the following skillset:
 
 * Physical computing and electronics prototyping
-* Software programming
+* Software programming (Java, Unity, C++)
 * Digital fabrication, 3D CAD and mechanical analysis
 * Analytical skillset and quantitative statistical analysis
 
-Prospective students are expected to have interest in these subjects, as well as demonstrated making skills, and to
-have attended courses such as [*Software Prototyping* (ID311) and *Interaction Prototyping*
-(ID220)](http://alsoplantsfly.com/#3).
+Students without this background are strongly encourage to attend courses such as  [*Software Prototyping* (ID311) and *Interaction Prototyping*
+(ID220)](http://alsoplantsfly.com/#3), or their equivalent. Finally, prospective students are also encouraged to submit a portfolio of their past projects demonstrating their making capabilities. 
 
-Finally, the lab cannot directly accept candidates, who instead are required to apply through the [KAIST
+Regarding the application process, the lab cannot directly accept candidates, who instead are required to apply through the [KAIST
 admission site](https://admission.kaist.ac.kr/international/). For
 further information about the application process please refer to these pages for the
 [Master](http://id.kaist.ac.kr/index.php?mid=masterp#), [Ph.D.](http://id.kaist.ac.kr/index.php?mid=phdp), and Master+Ph.D combined programs.
