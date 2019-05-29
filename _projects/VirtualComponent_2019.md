@@ -32,6 +32,12 @@ Yoonji Kim, Youngkyung Choi, Hyein Lee, Geehyuk Lee, Andrea Bianchi. 2019. **Vir
 <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
 <a href="{{ page.doi_link }}" target="_blank">doi</a>
 
+
+### Media coverage
+The augmented reality breadboard of the future, [Hackaday (May 27, 2019)](
+https://hackaday.com/2019/05/27/the-augmented-reality-breadboard-of-the-future/)
+
+
 --- 
 
 <a href="/index.html" class="button button--large">Back to projects</a>
