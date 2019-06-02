@@ -32,10 +32,12 @@ Yoonji Kim, Youngkyung Choi, Hyein Lee, Geehyuk Lee, Andrea Bianchi. 2019. **Vir
 <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
 <a href="{{ page.doi_link }}" target="_blank">doi</a>
 
+### Source code and material
+[GitHub](https://github.com/makinteract/VirtualComponent)
 
 ### Media coverage
 The augmented reality breadboard of the future, [Hackaday (May 27, 2019)](
-https://hackaday.com/2019/05/27/the-augmented-reality-breadboard-of-the-future/)
+https://hackaday.com/2019/05/27/the-augmented-reality-breadboard-of-the-future/), [Hackster.io, May 29, 2019](https://blog.hackster.io/virtualcomponent-lets-users-digitally-place-virtual-electronics-on-a-real-breadboard-39bf0352bc09).
 
 
 --- 

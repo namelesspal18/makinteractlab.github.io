@@ -20,6 +20,9 @@ Creating objects with threads is commonly referred as string art. It is typicall
 
 Seungwoo Je, Yekaterina Abileva, Andrea Bianchi, Jean-Charles Bazin. 2019. **A Computational Approach for Spider Web Inspired Fabrication of String Art**. In Computer Animation and Virtual Worlds (SCI).
 
+### Source code and material
+[GitHub](https://github.com/makinteractlab/SpiderPrinter)
+
 <!-- DO NOT CHANGE MANUALLY -->
 <!--
 <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
