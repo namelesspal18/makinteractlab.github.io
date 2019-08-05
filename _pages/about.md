@@ -13,11 +13,10 @@ document.getElementById('click_me').addEventListener("click", function(event) {
 </script> -->
 
 
-**MAKinteract** (**MAK**E + **interact**ion) is a research lab in the department of [Industrial
+Hello. **MAKinteract** (**MAK**E + **interact**ion) is a research lab in the department of [Industrial
 Design](http://id.kaist.ac.kr) at [KAIST](http://www.kaist.edu/html/en/index.html) working at the intersection of design and engineering, in the field of Human-Computer Interaction (**HCI**).
 
-Through user-centered design, fabrication, iterative prototyping and users studies we make new **tangible** and
-**wearable** systems and toolkits for helping designers inventing yet unseen interactions.
+Using user-centered design to define requirments, iterative prototyping, digital fabrication, and users studies to better understand users, we create novel **mechatronic** systems and toolkits for helping designers inventing yet unseen interactions.
 
 ---
 
@@ -87,22 +86,18 @@ Our research was possible also thanks to numerous collaborators:
 
 ### For perspective students and collaborators
 
-We look forward to collaborate with new students, researchers, interns, and external collaborators. Specifically, we are currently searching for students with the following skillset:
+We look forward to collaborate with new students, researchers, interns, and external collaborators. Specifically, we are currently searching for students with **engineering or design background intersting in pursuing a PhD degree focusing on mechatronic systems**. We are looking for students with this set of skills:
 
 * Physical computing and electronics prototyping
 * Software programming (Java, Unity, C++)
 * Digital fabrication, 3D CAD and mechanical analysis
 * Analytical skillset and quantitative statistical analysis
 
-Students without this background are strongly encourage to attend courses such as  [*Software Prototyping* (ID311) and *Interaction Prototyping*
-(ID220)](http://alsoplantsfly.com/#3), or their equivalent. Finally, prospective students are also encouraged to submit a portfolio of their past projects demonstrating their making capabilities. 
+Students without this background are required to attend courses such as  [*Software Prototyping* (ID311) and *Interaction Prototyping*
+(ID220)](http://alsoplantsfly.com/#3), or their equivalent. Prospective students are encouraged to contact professor Andrea Bianchi before applying and to submit a portfolio of their past projects demonstrating their making capabilities.
 
-Regarding the application process, the lab cannot directly accept candidates, who instead are required to apply through the [KAIST
-admission site](https://admission.kaist.ac.kr/international/). For
-further information about the application process please refer to these pages for the
-[Master](http://id.kaist.ac.kr/index.php?mid=masterp#), [Ph.D.](http://id.kaist.ac.kr/index.php?mid=phdp), and Master+Ph.D combined programs.
-
-Nevertheless, **before** applying you you might want to consider talking with professor Andrea Bianchi.
+For the application process, please refer to the [KAIST
+admission site](https://admission.kaist.ac.kr/international/) and these lists of Q&A for [Master](http://id.kaist.ac.kr/index.php?mid=masterp#) [Ph.D.](http://id.kaist.ac.kr/index.php?mid=phdp) programs.
 
 Feel free to contact us for further questions
 
