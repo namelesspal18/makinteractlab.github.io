@@ -16,7 +16,7 @@ document.getElementById('click_me').addEventListener("click", function(event) {
 Hello. **MAKinteract** (**MAK**E + **interact**ion) is a research lab in the department of [Industrial
 Design](http://id.kaist.ac.kr) at [KAIST](http://www.kaist.edu/html/en/index.html) working at the intersection of design and engineering, in the field of Human-Computer Interaction (**HCI**).
 
-Using user-centered design to define requirments, iterative prototyping, digital fabrication, and users studies to better understand users, we create novel **mechatronic** systems and toolkits for helping designers inventing yet unseen interactions.
+Using user-centered design to define requirments, iterative prototyping, digital fabrication, and users studies to better understand users, we create **novel mechatronic systems and toolkits** for helping designers inventing yet unseen interactions.
 
 ---
 
