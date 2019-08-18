@@ -25,7 +25,7 @@ Seungwoo Je, Yekaterina Abileva, Andrea Bianchi, Jean-Charles Bazin. 2019. **A C
 
 <!-- DO NOT CHANGE MANUALLY -->
 
-<!-- <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;-->
+ <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
  <a href="{{ page.doi_link }}" target="_blank">doi</a>
 
 
