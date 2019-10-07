@@ -4,7 +4,7 @@ subtitle: "Partitioning Open-plan Workspaces via Augmented Reality"
 year: 2019
 featured_image: /images/projects/virtualpartitions.jpg # width must be 1600px	
 pdf_file: Lee_VirtualPartitions_PUC2019.pdf # put file in the directory FILES
-doi_link: https://doi.org/
+doi_link: https://doi.org/10.1007/s00779-019-01306-0
 featured: true
 ---
 
@@ -20,8 +20,8 @@ Open-plan workspaces are becoming common because of their compact footprint, eco
 
 Hyelip Lee, Seungwoo Je, Rachael Kim, Himanshu Verma, Hamed Alavi, Andrea Bianchi. 2019. **Partitioning Open-plan Workspaces via Augmented Reality**. In n Personal and Ubiquitous Computing (in press).
 <!-- DO NOT CHANGE MANUALLY -->
-<!-- <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
-<a href="{{ page.doi_link }}" target="_blank">doi</a> -->
+<a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
+<a href="{{ page.doi_link }}" target="_blank">doi</a>
 
 --- 
 
