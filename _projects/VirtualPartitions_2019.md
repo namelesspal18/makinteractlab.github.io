@@ -18,7 +18,7 @@ Open-plan workspaces are becoming common because of their compact footprint, eco
 
 ### References
 
-Hyelip Lee, Seungwoo Je, Rachael Kim, Himanshu Verma, Hamed Alavi, Andrea Bianchi. 2019. **Partitioning Open-plan Workspaces via Augmented Reality**. In n Personal and Ubiquitous Computing (in press).
+Hyelip Lee, Seungwoo Je, Rachael Kim, Himanshu Verma, Hamed Alavi, Andrea Bianchi. 2019. **Partitioning Open-plan Workspaces via Augmented Reality**. In Personal and Ubiquitous Computing (pp. 1-16)
 <!-- DO NOT CHANGE MANUALLY -->
 <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
 <a href="{{ page.doi_link }}" target="_blank">doi</a>
