@@ -3,8 +3,8 @@ title: Aero-Plane
 subtitle: "a Handheld Force-Feedback Device that Renders Weight Motion Illusion on a Virtual 2D Plane"
 year: 2019
 featured_image: /images/projects/aeroplane.jpg # width must be 1600px	
-pdf_file: Je_AeroPlane_UIST2019.pdf # put file in the directory FILES
-doi_link: https://doi.org/
+pdf_file: Je_AeroPlane_UIST19.pdf # put file in the directory FILES
+doi_link: https://doi.org/10.1145/3332165.3347926
 featured: true
 ---
 
@@ -22,8 +22,8 @@ Force feedback is said to be the next frontier in virtual reality (VR). Recently
 Seungwoo Je, Myung Jin Kim, Woojin Lee, Byungjoo Lee, Xing-Dong Yang, Pedro Lopes, Andrea Bianchi. 2019. **Aero-Plane: a Handheld Force-Feedback Device that Renders Weight Motion Illusion on a Virtual 2D Plane**. In ACM UIST 2019.
 
 <!-- DO NOT CHANGE MANUALLY -->
-<!-- <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
-<a href="{{ page.doi_link }}" target="_blank">doi</a> -->
+<a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
+<a href="{{ page.doi_link }}" target="_blank">doi</a>
 
 --- 
 

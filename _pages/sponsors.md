@@ -11,7 +11,7 @@ Our research was only possible thanks to the kind support of funding agencies, c
 
         {% for sponsor in site.data.sponsors%}
 
-        <div class="col-lg-2 col-md-2 col-sm-2">
+        <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="service-box sponsor">
                 <a class="greyscale" href="{{ sponsor.url }}"><img src="/images/sponsors/{{ sponsor.logo }}"></a>
             </div>
