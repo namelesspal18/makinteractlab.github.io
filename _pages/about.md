@@ -70,13 +70,9 @@ Using user-centered design to define requirements, iterative prototyping, digita
 
 Our research was possible also thanks to numerous collaborators: 
 [Ian Oakley](http://interactions.unist.ac.kr) (UNIST), 
-[Daniel Ashbrook](http://danielashbrook.com) (University of Copenhagen), 
-[Xing-Dong Yang](https://www.cs.dartmouth.edu/~xingdong/) (Dartmouth College), 
-[Liwei Chan](https://scholar.google.co.uk/citations?user=yF0Cw1EAAAAJ&hl=en) (National Chiao Tung University), 
-[Pedro Lopes](http://plopes.org) (University of Chicago), 
-[Aaron Quigley](https://sachi.cs.st-andrews.ac.uk/people/faculty/aaron-quigley/) and [Hui-Shyong](https://hsyeo.com) (University of St Andrews), 
-[Hamed Alavi](http://hamedalavi.com) and [Himanshu Verma](http://human-ist.unifr.ch/people-and-team/himanshu-verma) (University of Fribourg),
-[Youngjun Cho](https://uclic.ucl.ac.uk) (UCL), 
+[Daniel Ashbrook](http://danielashbrook.com) (University of Copenhagen), [Artem Dementyev](http://www.artemdementyev.com) (Google), [Jean-Charles Bazin](https://scholar.google.com/citations?user=XPZLx-8AAAAJ&hl=en) (Apple), [Pedro Lopes](http://plopes.org) (University of Chicago), [Xing-Dong Yang](https://www.cs.dartmouth.edu/~xingdong/) (Dartmouth College), 
+[Liwei Chan](https://scholar.google.co.uk/citations?user=yF0Cw1EAAAAJ&hl=en) (National Chiao Tung University), [Aaron Quigley](https://sachi.cs.st-andrews.ac.uk/people/faculty/aaron-quigley/) and [Hui-Shyong](https://hsyeo.com) (University of St Andrews), 
+[Hamed Alavi](http://hamedalavi.com) and [Himanshu Verma](http://human-ist.unifr.ch/people-and-team/himanshu-verma) (University of Fribourg), [Youngjun Cho](https://uclic.ucl.ac.uk) (UCL), 
 [Hyeon-Jeong Suk](Suk http://color.kaist.ac.kr) (KAIST Design), 
 [Geehyuk Lee](http://hcil.kaist.ac.kr/?page_id=349) (KAIST School of Computing), 
 [Hyoungshick Kim](https://seclab.skku.edu) (SKKU).
