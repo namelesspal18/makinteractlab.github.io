@@ -60,10 +60,11 @@ Using user-centered design to define requirements, iterative prototyping, digita
     </div>
 </div>
 
-<div class="img-container">
+<!-- IMAGE  -->
+<!-- <div class="img-container">
     <img src="/images/people/group.jpg" alt="The Lab" style="width:100%;">
     <h5 class="text-overlay">Few hours before the CHI deadline...</h5>
-</div>
+</div> -->
 
 
 ### Collaborators

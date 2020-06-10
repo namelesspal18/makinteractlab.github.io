@@ -10,6 +10,9 @@ Copy the theme files to your website directory.
 
 To run the theme locally, navigate to the theme directory in your terminal and run `bundle install` to install the theme's dependencies. Then run `jekyll serve` to start the Jekyll server.
 
+Simply run `bundle exec jekyll serve --livereload` from the terminal.
+
+
 ---
 
 ## Jekyll basics
