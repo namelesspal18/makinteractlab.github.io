@@ -5,7 +5,7 @@ year: 2019
 featured_image: /images/projects/spiderweb.jpg # width must be 1600px	
 pdf_file: Je_SpiderWeb_CAV19.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1002/cav.1904
-featured: true
+featured: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9XmnfOtUVKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
