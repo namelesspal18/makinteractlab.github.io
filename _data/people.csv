@@ -1,13 +1,13 @@
 name,lastname,position,status,homepage,github,linkedin,facebook,scholar,email
 Andrea,Bianchi,Associate Professor,current,http://alsoplantsfly.com,makinteract,andrea-bianchi-87656b6,,wVDtZB0AAAAJ&hl,andrea@kaist.ac.kr
 Leila Hyelip,Lee,Ph.D. student,current,http://www.hyelip.com/,,,,,hyelip.lee@kaist.ac.kr
-Yoonji,Kim,Ph.D. student,current,http://www.yoonji-kim.com,/yoonji-kim,yoonji-kim,,,yoonji@kaist.ac.kr
 Seungwoo,Je,Ph.D. student,current,http://www.seungwooje.com,,seungwoo-je,,yecBkvAAAAAJ&hl,jeboungho@gmail.com
-Hyein,Lee,Master student,current,http://hyein.me,,,,,hyein.l@kaist.ac.kr
 Daye,Kang,Master student,current,,,,,,dayekang@kaist.ac.kr
 Myung Jin,Kim,Master student,current,,,myung-jin-kim-044b63135,3dkmj,ypCkHjEAAAAJ&hl=en,davidkim9404@kaist.ac.kr
 Neung,Ryu,Master student,current,,,,,,ababc100564@gmail.com
 Hyunseung,Lim,Undergrad intern,current,,,,people/임현승/100006569493290,,charlie9807@kaist.ac.kr
+Yoonji,Kim,Ph.D. student,alumni,http://www.yoonji-kim.com,/yoonji-kim,yoonji-kim,,,yoonji@kaist.ac.kr
+Hyein,Lee,Master student,alumni,http://hyein.me,,,,,hyein.l@kaist.ac.kr
 Youngkyung,Choi,Master student,alumni,,,,,,youngkyung.che@gmail.com
 Okyu,Choi,Master student (now LG),alumni,https://59design.tumblr.com,,okyu-choi-692324a6,,,okyu59@kaist.ac.kr
 Minkyeong,Lee,Master student,alumni,,,,,,minkyeong.lee@gmail.com
@@ -15,4 +15,4 @@ Edwin,Truman,Undergrad intern student,alumni,,,,edwinterumen,,edwin.truman@kaist
 WooJin,Lee,URP student,alumni,http://www.littlefloor.me,,,,,aerolane0302@gmail.com
 Ramkrishna,Prasad,Undergrad intern,alumni,,,ramkrishna-prasad-41269a142,ramkrishna.prasad.9,,rprasad@kaist.ac.kr
 Jihoon,Suh,URP student (now Facebook),alumni,https://www.jihoonsuh.com/,,jihoons,,,jihoons@uw.edu
-Wooshik,Kim,URP student (now Carnegie Mellon University),alumni,,,,,,briankim13@kaist.ac.kr
+Wooshik,Kim,URP student (now Carnegie Mellon University),alumni,,,,,,briankim13@kaist.ac.kr  
