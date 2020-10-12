@@ -5,7 +5,7 @@ year: 2017
 featured_image: /images/projects/vibRing.jpg # width must be 1600px	
 pdf_file: Bianchi_Vibring_AH2017.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1145/3041164.3041196
-featured: true
+featured: false
 ---
 
 <!-- 
