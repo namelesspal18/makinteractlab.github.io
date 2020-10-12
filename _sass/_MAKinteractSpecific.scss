@@ -1,5 +1,12 @@
 // PEOPLE
 
+/* HIde the scrollbar on the page__content div */
+.page__content {
+    overflow: hidden;
+}
+
+/* Hide scrollbars */
+
 .container-fluid {
     margin-top: 50px;
 }
