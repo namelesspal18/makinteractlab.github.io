@@ -1,6 +1,6 @@
 ---
-title: SchemaBoard
-subtitle: 'Supporting Correct Assembly of Schematic Circuits using Dynamic In-Situ Visualization'
+title: ElaStick
+subtitle: 'A Handheld Variable Stiffness Display for Rendering Dynamic Haptic Response of Flexible Object'
 year: 2020
 featured_image: /images/projects/schemaboard.jpg # width must be 1600px
 # pdf_file: Je_WindBlaster_SiggraphET2018.pdf # put file in the directory FILES
@@ -18,7 +18,7 @@ Assembling circuits on breadboards using reference designs is a common activity 
 
 ### References
 
-Yoonji Kim, Hyein Lee, Ramkrishna Prasad, Seungwoo Je, Youngkyung Choi, Daniel Ashbrook, Ian Oakley, and Andrea Bianchi. 2020. **SchemaBoard: Supporting Correct Assembly of Schematic Circuits using Dynamic In-Situ Visualization**. To appear in Proceedings of UIST 2020.
+Neung Ryu, Woojin Lee, Myung Jin Kim, and Andrea Bianchi. 2020. **ElaStick: A Handheld Variable Stiffness Display for Rendering Dynamic Haptic Response of Flexible Object**. To appear in Proceedings of UIST 2020.
 
 <!-- DO NOT CHANGE MANUALLY -->
 

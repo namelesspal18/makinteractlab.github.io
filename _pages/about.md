@@ -7,16 +7,15 @@ description: About the MAKinteract lab at KAIST
 <script type="text/javascript">
 document.getElementById('click_me').addEventListener("click", function(event) {
     (function(event) {
-        
+
     }).call(document.getElementById('click_me'), event);
 });
 </script> -->
 
-
 Hello. **MAKinteract** (**MAK**E + **interact**ion) is a research lab in the department of [Industrial
 Design](http://id.kaist.ac.kr) at [KAIST](http://www.kaist.edu/html/en/index.html) working at the intersection of design and engineering, in the field of Human-Computer Interaction (**HCI**).
 
-Using user-centered design to define requirements, iterative prototyping, digital fabrication, and users studies to better understand users, we create **novel mechatronic systems and toolkits** for helping designers inventing yet unseen interactions.
+Using user-centered design to define requirements, iterative prototyping, digital fabrication, and users studies to better understand users, we create **novel mechatronic systems and fabrication toolkits** for helping designers inventing yet unseen interactions.
 
 ---
 
@@ -54,10 +53,10 @@ Using user-centered design to define requirements, iterative prototyping, digita
             </div>
         </div>
 
-
         <!-- OTHER MEMBERS -->
         {% include people_grid.html %}
     </div>
+
 </div>
 
 <!-- IMAGE  -->
@@ -66,18 +65,11 @@ Using user-centered design to define requirements, iterative prototyping, digita
     <h5 class="text-overlay">Few hours before the CHI deadline...</h5>
 </div> -->
 
-
 ### Collaborators
 
-Our research was possible also thanks to numerous collaborators: 
-[Ian Oakley](http://interactions.unist.ac.kr) (UNIST), 
-[Daniel Ashbrook](http://danielashbrook.com) (University of Copenhagen), [Artem Dementyev](http://www.artemdementyev.com) (Google), [Jean-Charles Bazin](https://scholar.google.com/citations?user=XPZLx-8AAAAJ&hl=en) (Apple), [Pedro Lopes](http://plopes.org) (University of Chicago), [Xing-Dong Yang](https://www.cs.dartmouth.edu/~xingdong/) (Dartmouth College), 
-[Liwei Chan](https://scholar.google.co.uk/citations?user=yF0Cw1EAAAAJ&hl=en) (National Chiao Tung University), [Aaron Quigley](https://sachi.cs.st-andrews.ac.uk/people/faculty/aaron-quigley/) and [Hui-Shyong](https://hsyeo.com) (University of St Andrews), 
-[Hamed Alavi](http://hamedalavi.com) and [Himanshu Verma](http://human-ist.unifr.ch/people-and-team/himanshu-verma) (University of Fribourg), [Youngjun Cho](https://uclic.ucl.ac.uk) (UCL), 
-[Hyeon-Jeong Suk](Suk http://color.kaist.ac.kr) (KAIST Design), 
-[Geehyuk Lee](http://hcil.kaist.ac.kr/?page_id=349) (KAIST School of Computing), 
-[Hyoungshick Kim](https://seclab.skku.edu) (SKKU).
-
+Our research was possible also thanks to numerous collaborators:
+[Ian Oakley](http://interactions.unist.ac.kr) (UNIST), [Daniel Ashbrook](http://danielashbrook.com) (University of Copenhagen), [Artem Dementyev](http://www.artemdementyev.com) (Google), [Jean-Charles Bazin](https://scholar.google.com/citations?user=XPZLx-8AAAAJ&hl=en) (Apple), [Pedro Lopes](http://plopes.org) (University of Chicago), [Xing-Dong Yang](https://www.cs.dartmouth.edu/~xingdong/) (Dartmouth College), [Liwei Chan](https://scholar.google.co.uk/citations?user=yF0Cw1EAAAAJ&hl=en) (National Chiao Tung University), [Aaron Quigley](https://sachi.cs.st-andrews.ac.uk/people/faculty/aaron-quigley/) and [Hui-Shyong](https://hsyeo.com) (University of St Andrews), [Hamed Alavi](http://hamedalavi.com) and [Himanshu Verma](http://human-ist.unifr.ch/people-and-team/himanshu-verma) (University of Fribourg), [Youngjun Cho](https://youngjuncho.com) (UCL), [Hyeon-Jeong Suk](Suk http://color.kaist.ac.kr) (KAIST Design),
+[Geehyuk Lee](http://hcil.kaist.ac.kr/?page_id=349) (KAIST School of Computing), [Hyoungshick Kim](https://seclab.skku.edu) (SKKU).
 
 ---
 
@@ -85,16 +77,14 @@ Our research was possible also thanks to numerous collaborators:
 
 We look forward to collaborate with new students, researchers, interns, and external collaborators. Specifically, we are currently searching for students with **engineering or design background intersting in pursuing a PhD degree focusing on mechatronic systems**. We are looking for students with this set of skills:
 
-* Physical computing and electronics prototyping
-* Software programming (Java, Unity, C++)
-* Digital fabrication, 3D CAD and mechanical analysis
-* Analytical skillset and quantitative statistical analysis
+- _Physical computing_ and electronics prototyping
+- Software _programming_ (Java, Unity, C++)
+- Digital _fabrication_, 3D CAD and mechanical analysis
+- Analytical skillset and quantitative _statistical analysis_
 
-Students without this background are required to attend courses such as  [*Software Prototyping* (ID311) and *Interaction Prototyping*
-(ID220)](http://alsoplantsfly.com/#3), or their equivalent. Prospective students are encouraged to contact professor Andrea Bianchi before applying and to submit a portfolio of their past projects demonstrating their making capabilities.
+Students without this background are required to attend courses such as [_Software Prototyping_ (ID311) and _Interaction Prototyping_ (ID220)](http://alsoplantsfly.com), or their equivalent. Prospective students are encouraged to contact professor Andrea Bianchi before applying and to submit a portfolio of their past projects demonstrating their making capabilities.
 
-For the application process, please refer to the [KAIST
-admission site](https://admission.kaist.ac.kr/international/) and these lists of Q&A for [Master](http://id.kaist.ac.kr/index.php?mid=masterp#) [Ph.D.](http://id.kaist.ac.kr/index.php?mid=phdp) programs.
+For the application process, please refer to the [KAIST admission site](https://admission.kaist.ac.kr) and these lists of Q&A for [Master](http://id.kaist.ac.kr/index.php?mid=masterp#) [Ph.D.](http://id.kaist.ac.kr/index.php?mid=phdp) programs.
 
 Feel free to contact us for further questions
 
