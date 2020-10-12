@@ -19,7 +19,7 @@ Haptic controllers have an important role in providing rich and immersive Virtua
 
 ### References
 
-[Best paper award 🏆] Neung Ryu, Woojin Lee, Myung Jin Kim, and Andrea Bianchi. 2020. **ElaStick: A Handheld Variable Stiffness Display for Rendering Dynamic Haptic Response of Flexible Object**. To appear in Proceedings of UIST 2020.
+[Best paper award (top 1%) 🏆] Neung Ryu, Woojin Lee, Myung Jin Kim, and Andrea Bianchi. 2020. **ElaStick: A Handheld Variable Stiffness Display for Rendering Dynamic Haptic Response of Flexible Object**. To appear in Proceedings of UIST 2020.
 
 <!-- DO NOT CHANGE MANUALLY -->
 
