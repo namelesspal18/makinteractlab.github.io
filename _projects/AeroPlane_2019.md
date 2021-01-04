@@ -19,7 +19,7 @@ Force feedback is said to be the next frontier in virtual reality (VR). Recently
 
 ### References
 
-Seungwoo Je, Myung Jin Kim, Woojin Lee, Byungjoo Lee, Xing-Dong Yang, Pedro Lopes, Andrea Bianchi. 2019. **Aero-Plane: a Handheld Force-Feedback Device that Renders Weight Motion Illusion on a Virtual 2D Plane**. In ACM UIST 2019.
+Seungwoo Je, Myung Jin Kim, Woojin Lee, Byungjoo Lee, Xing-Dong Yang, Pedro Lopes, and Andrea Bianchi. 2019. **Aero-plane: A Handheld Force-Feedback Device that Renders Weight Motion Illusion on a Virtual 2D Plane**. In <i>Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology</i> (<i>UIST '19</i>). Association for Computing Machinery, New York, NY, USA, 763–775. DOI:https://doi.org/10.1145/3332165.3347926
 
 <!-- DO NOT CHANGE MANUALLY -->
 <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;

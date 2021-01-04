@@ -24,7 +24,7 @@ The symmetric configuration and the sensitivity of ears in addition to the long 
 
 ### References
 
-Minkyeong Lee, Seungwoo Je, Woojin Lee, Daniel Ashbrook and Andrea Bianchi, **ActivEarring: Spatiotemporal Haptic Cues on the Ears", in IEEE Transactions on Haptics**. IN IEEE Transactions on Haptics. DOI: https://doi.org/10.1109/TOH.2019.2925799
+Minkyeong Lee, Seungwoo Je, Woojin Lee, Daniel Ashbrook and Andrea Bianchi. **ActivEarring: Spatiotemporal Haptic Cues on the Ears", in IEEE Transactions on Haptics**. In IEEE Transactions on Haptics. DOI: https://doi.org/10.1109/TOH.2019.2925799
 
 <!-- DO NOT CHANGE MANUALLY -->
 <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
