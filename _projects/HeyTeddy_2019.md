@@ -25,7 +25,7 @@ Physical computing is a complex activity that consists of different but tightly 
 
 ### References
 
-Yoonji Kim, Youngkyung Choi, Daye Kang, Minkyeong Lee, Tek-Jin Nam, and Andrea Bianchi. 2019. HeyTeddy: Conversational Test-Driven Development for Physical Computing. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 3, 4, Article 139 (December 2019), 21 pages. DOI: https://doi.org/10.1145/3369838
+Yoonji Kim, Youngkyung Choi, Daye Kang, Minkyeong Lee, Tek-Jin Nam, and Andrea Bianchi. 2019. **HeyTeddy: Conversational Test-Driven Development for Physical Computing.** Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 3, 4, Article 139 (December 2019), 21 pages. DOI: https://doi.org/10.1145/3369838
 
 <!-- DO NOT CHANGE MANUALLY -->
 <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;

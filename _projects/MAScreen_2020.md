@@ -3,8 +3,8 @@ title: MAScreen
 subtitle: 'Augmenting Speech with Visual Cues of Lip Motions, Facial Expressions, and Text Using a Wearable Display'
 year: 2020
 featured_image: /images/projects/mascreen.jpg # width must be 1600px
-# pdf_file: Je_WindBlaster_SiggraphET2018.pdf # put file in the directory FILES
-# doi_link: https://doi.org/10.1145/3214907.3214915
+pdf_file: Lee_MAScreen_SiggraphAsiaET20.pdf # put file in the directory FILES
+doi_link: https://doi.org/10.1145/3415255.3422886
 featured: true
 ---
 
@@ -18,7 +18,8 @@ Personal protective equipment, particularly face masks, have be- come increasing
 
 ### References
 
-Hyein Lee, Yoonji Kim, and Andrea Bianchi. 2020. **MAScreen: Augmenting Speech with Visual Cues of Lip Motions, Facial Expressions, and Text Using a Wearable Display**. To appear in SIGGRAPH Asia Emerging Technologies 2020.
+Hyein Lee, Yoonji Kim, and Andrea Bianchi. 2020. **MAScreen: Augmenting Speech with Visual Cues of Lip Motions, Facial Expressions, and Text Using a Wearable Display**. In SIGGRAPH Asia 2020 Emerging Technologies (SA '20). Association for Computing Machinery, New York, NY, USA, Article 2, 1–2. DOI:https://doi.org/10.1145/3415255.3422886
+
 
 <!-- DO NOT CHANGE MANUALLY -->
 

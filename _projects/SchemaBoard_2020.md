@@ -3,8 +3,8 @@ title: SchemaBoard
 subtitle: 'Supporting Correct Assembly of Schematic Circuits using Dynamic In-Situ Visualization'
 year: 2020
 featured_image: /images/projects/schemaboard.jpg # width must be 1600px
-# pdf_file: Je_WindBlaster_SiggraphET2018.pdf # put file in the directory FILES
-# doi_link: https://doi.org/10.1145/3214907.3214915
+pdf_file: Kim_SchemaBoard_UIST20.pdf # put file in the directory FILESii
+doi_link: https://doi.org/10.1145/3379337.3415887
 featured: true
 ---
 
@@ -18,7 +18,7 @@ Assembling circuits on breadboards using reference designs is a common activity 
 
 ### References
 
-Yoonji Kim, Hyein Lee, Ramkrishna Prasad, Seungwoo Je, Youngkyung Choi, Daniel Ashbrook, Ian Oakley, and Andrea Bianchi. 2020. **SchemaBoard: Supporting Correct Assembly of Schematic Circuits using Dynamic In-Situ Visualization**. To appear in Proceedings of UIST 2020.
+Yoonji Kim, Hyein Lee, Ramkrishna Prasad, Seungwoo Je, Youngkyung Choi, Daniel Ashbrook, Ian Oakley, and Andrea Bianchi. 2020. **SchemaBoard: Supporting Correct Assembly of Schematic Circuits using Dynamic In-Situ Visualization**. In Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology (UIST '20). Association for Computing Machinery, New York, NY, USA, 987–998. DOI:https://doi.org/10.1145/3379337.3415887
 
 <!-- DO NOT CHANGE MANUALLY -->
 

@@ -3,8 +3,8 @@ title: BodyPrinter
 subtitle: "BodyPrinter: Fabricating Circuits Directly on the Skin at Arbitrary Locations Using a Wearable Compact Plotter"
 year: 2020
 featured_image: /images/projects/bodyPrinter.jpg # width must be 1600px	
-# pdf_file: Je_WindBlaster_SiggraphET2018.pdf # put file in the directory FILES
-# doi_link: https://doi.org/10.1145/3214907.3214915
+pdf_file: Choi_BodyPrinter_UIST20.pdf # put file in the directory FILES
+doi_link: https://doi.org/10.1145/3379337.3415840
 featured: true
 ---
 
@@ -18,7 +18,7 @@ On-body electronics and sensors offer the opportunity to seamlessly augment the 
 
 ### References
 
-Youngkyung Choi, Neung Ryu, Myung Jin Kim, Artem Dementyev, and Andrea Bianchi. 2020. **BodyPrinter: Fabricating Circuits Directly on the Skin at Arbitrary Locations Using a Wearable Compact Plotter**. To appear in Proceedings of UIST 2020.
+Youngkyung Choi, Neung Ryu, Myung Jin Kim, Artem Dementyev, and Andrea Bianchi. 2020. **BodyPrinter: Fabricating Circuits Directly on the Skin at Arbitrary Locations Using a Wearable Compact Plotter**. In <i>Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology</i> (<i>UIST '20</i>). Association for Computing Machinery, New York, NY, USA, 554–564. DOI:https://doi.org/10.1145/3379337.3415840
 
 <!-- DO NOT CHANGE MANUALLY -->
 <a href="{{ site.url }}/files/{{ page.year }}/{{ page.pdf_file }}" target="_blank">paper</a>&nbsp;&nbsp;&nbsp;
