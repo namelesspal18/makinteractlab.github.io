@@ -1,7 +1,7 @@
 ---
 title: Andrea Bianchi
-description: About the MAKinteract lab director Andrea Bianchi
-subtitle: Associate Professor, Lab director
+description: About Andrea BIanchi - MAKinteract lab director
+subtitle: Associate Professor - Lab director
 ---
 
 <head>
@@ -33,11 +33,6 @@ subtitle: Associate Professor, Lab director
 		font-weight: 300; /* see settings.yml */
     }
 
-    <!-- a{
-        border-bottom: none;
-		color: #6C7A89;
-		font-weight: 300;
-    } -->
 
 </style>
 </head>
@@ -52,7 +47,7 @@ subtitle: Associate Professor, Lab director
 
 
 ## Short Bio
-Andrea received his Ph.D. from KAIST (Korea) in 2012, his master's in Computer Science from NYU (USA) and his BSc. in business administration from Bocconi University (Italy). Before joining KAIST, he worked at Sungkyunkwan University as faculty member in the department of Computer Science, and as a video game programmer for a New York startup after earning his Masters. I have an <i>Erdős number</i> of 3, and I collect <a href="https://alsoplantsfly.com/images/pictures/profile/glasses.jpg">eyeglasses</a>.
+Andrea received his [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=2) in 2012, his Master's in Computer Science from [NYU](http://www.nyu.edu) and his Laurea (BSc+MS) in business administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home). Before joining KAIST, he worked at [Sungkyunkwan University](www.skku.edu/eng/index.do) as faculty member in the department of Computer Science, and as a video game programmer for a New York startup after earning his Master's degree. I have an _Erdős number_ of 3, and I collect [eyeglasses](https://alsoplantsfly.com/images/pictures/profile/glasses.jpg).
 
 ## Experience
 
