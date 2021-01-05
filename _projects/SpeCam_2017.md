@@ -21,6 +21,8 @@ featured: false
 <!-- DO NOT CHANGE MANUALLY -->
 # {{page.title}}: {{page.subtitle}} ({{page.year}})
 
+🏅 _Honorable mention award_
+
 SpeCam is a lightweight surface color and material sensing approach for mobile devices which only uses the front-facing camera and the display as a multi-spectral light source. We leverage the natural use of mobile devices (placing it face-down) to detect the material underneath and therefore infer the location or placement of the device. SpeCam can then be used to support discreet micro-interactions to avoid the numerous distractions that users daily face with today's mobile devices. Our two-parts study shows that SpeCam can i) recognize colors in the HSB space with 10 degrees apart near the 3 dominant colors and 4 degrees otherwise and ii) 30 types of surface materials with 99% accuracy. These findings are further supported by a spectroscopy study. Finally, we suggest a series of applications based on simple mobile micro-interactions suitable for using the phone when placed face-down.
 
 
