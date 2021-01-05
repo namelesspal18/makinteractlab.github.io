@@ -3,15 +3,6 @@ title: The Lab
 description: About the MAKinteract lab at KAIST
 ---
 
-<!-- <a href="#" id="click_me">Click Me</a>
-<script type="text/javascript">
-document.getElementById('click_me').addEventListener("click", function(event) {
-    (function(event) {
-
-    }).call(document.getElementById('click_me'), event);
-});
-</script> -->
-
 Hello. **MAKinteract** (**MAK**E + **interact**ion) is a research lab in the department of [Industrial
 Design](http://id.kaist.ac.kr) at [KAIST](http://www.kaist.edu/html/en/index.html) working at the intersection of design and engineering, in the field of Human-Computer Interaction (**HCI**).
 

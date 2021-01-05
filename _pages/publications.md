@@ -24,6 +24,9 @@ description: Publications at MAKinteract lab
 <!-- MODIFY UNDER THIS LINE -->
 
 
+
+<!-- # Conference & Journal Papers -->
+
 ## 2021
 
 Woojin Lee, Ramkrishna Prasad, Seungwoo Je, Yoonji Kim, Ian Oakley, Daniel Ashbrook , Andrea Bianchi. **VirtualWire: Supporting Rapid Prototyping with Instant Reconfigurations of Wires in Breadboarded Circuits**. To appear in _TEI 2021_.
@@ -61,7 +64,7 @@ Hyelip Lee, Seungwoo Je, Rachael Kim, Himanshu Verma, Hamed Alavi, Andrea Bianch
 
 Minkyeong Lee, Seungwoo Je, Woojin Lee, Daniel Ashbrook and Andrea Bianchi. **ActivEarring: Spatiotemporal Haptic Cues on the Ears**, in IEEE Transactions on Haptics. In _IEEE Transactions on Haptics_. DOI: [https://doi.org/10.1109/TOH.2019.2925799](https://doi.org/10.1109/TOH.2019.2925799)
 
-Seungwoo Je, Yekaterina Abileva, Andrea Bianchi, Jean-Charles Bazin. 2019. **A Computational Approach for Spider Web Inspired Fabrication of String Art**. In _Computer Animation and Virtual Worlds_ (SCIE) 2019;30:e1904. DOI: [https://doi.org/10.1002/cav.1904](https://doi.org/10.1002/cav.1904)
+Seungwoo Je, Yekaterina Abileva, Andrea Bianchi, Jean-Charles Bazin. 2019. **A Computational Approach for Spider Web Inspired Fabrication of String Art**. In _Computer Animation and Virtual Worlds_ 2019;30:e1904. DOI: [https://doi.org/10.1002/cav.1904](https://doi.org/10.1002/cav.1904)
 
 Hui-Shyong Yeo, Juyoung Lee, Hyung-il Kim, Aakar Gupta, Andrea Bianchi, Daniel Vogel, Hideki Koike, Woontack Woo, and Aaron Quigley. 2019. **WRIST: Watch-Ring Interaction and Sensing Technique for Wrist Gestures and Macro-Micro Pointing**. In <i>Proceedings of the 21st International Conference on Human-Computer Interaction with Mobile Devices and Services</i> (_MobileHCI '19_). Association for Computing Machinery, New York, NY, USA, Article 19, 1–15. DOI: [https://doi.org/10.1145/3338286.3340130](https://doi.org/10.1145/3338286.3340130)
 
@@ -124,7 +127,7 @@ Andrea Bianchi, Ian Oakley and Hyoungshick Kim. 2016. **PassBYOP: Bring Your Own
 Andrea Bianchi and Ian Oakley. **Wearable authentication: Trends and opportunities**. In _it - Information Technology_. Volume 58, Issue 5, Pages 255-262, July 2016 (invited paper). DOI: [https://doi.org/10.1515/itit-2016-0010](https://doi.org/10.1515/itit-2016-0010)
 
 ---
-
+<!-- 
 # Patents
 
-TOFILL
+TOFILL -->

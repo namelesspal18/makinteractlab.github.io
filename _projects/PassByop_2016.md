@@ -6,7 +6,7 @@ year: 2016
 featured_image: /images/projects/passBYOP.jpg # width must be 1600px	
 pdf_file: Bianchi_Passbyop_IEEE16.pdf # put file in the directory FILES
 doi_link: https://doi.org/10.1109/THMS.2015.2487511
-featured: true
+featured: false
 ---
 
 <!-- 
