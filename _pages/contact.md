@@ -36,4 +36,4 @@ KAIST is located in the beautiful city of [Daejeon](https://en.wikipedia.org/wik
 
 ### About KAIST
 
-[KAIST](https://en.wikipedia.org/wiki/KAIST) (formally the Korea Advanced Institute of Science and Technology) is a national research university located in Daejeon, South Korea, currently ranked **top #40** in the world according to the [QS ranking 2019](https://www.topuniversities.com/university-rankings/world-university-rankings/2019).
+[KAIST](https://en.wikipedia.org/wiki/KAIST) (formally the Korea Advanced Institute of Science and Technology) is a national research university located in Daejeon, South Korea, currently ranked **top #41** in the world according to the [QS ranking 2020](https://www.topuniversities.com/university-rankings/world-university-rankings/2019).

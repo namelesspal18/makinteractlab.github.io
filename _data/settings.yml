@@ -15,10 +15,10 @@ menu_settings:
       url: '/publications'
     - title: 'About us'
       url: '/about'
-    - title: 'Sponsors'
-      url: '/sponsors'
     - title: 'Join us'
       url: '/join'
+    - title: 'Sponsors'
+      url: '/sponsors'
     - title: 'Contact'
       url: '/contact'
 
