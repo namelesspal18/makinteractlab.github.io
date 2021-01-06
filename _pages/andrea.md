@@ -56,6 +56,7 @@ subtitle: Associate Professor - Lab director
 
     <div class="links">
     <!-- <a href="{{prof.homepage}}"><i class="fas fa-3x fa-home" aria-hidden="true"></i></a> -->
+    <a href="https://www.dropbox.com/s/1oby67w9i81cnq4/CV_andrea_bianchi_onePage.pdf?dl=0"><i class="fas fa-2x fa-file" aria-hidden="true"></i></a>
     <a href="http://github.com/{{prof.github}}"><i class="fab fa-2x fa-github" aria-hidden="true"></i></a>
     <a href="https://www.linkedin.com/in/{{prof.linkedin}}"><i class="fab fa-2x fa-linkedin-in" aria-hidden="true"></i></a>
     <a href="https://scholar.google.co.kr/citations?user={{prof.scholar}}"><i class="fas fa-2x fa-graduation-cap" aria-hidden="true"></i></a>
@@ -128,6 +129,7 @@ Andrea Bianchi (Korean: 안두리) received his [Ph.D. from KAIST](https://ct.ka
 * Spring 2016, 2017
 
 ## Additional Resources
+* [One page resume](https://www.dropbox.com/s/1oby67w9i81cnq4/CV_andrea_bianchi_onePage.pdf?dl=0)
 * [Previous website](https://alsoplantsfly.com)
 * [YouTube channel](https://www.youtube.com/channel/UC5A_g3GYEGeoqBqSSJ11NoQ)
 * [Vimeo channel](https://vimeo.com/minimalo)
