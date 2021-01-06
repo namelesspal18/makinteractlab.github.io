@@ -129,9 +129,10 @@ Andrea Bianchi (Korean: 안두리) received his [Ph.D. from KAIST](https://ct.ka
 * Spring 2016, 2017
 
 ## Additional Resources
-* [One page resume](https://www.dropbox.com/s/1oby67w9i81cnq4/CV_andrea_bianchi_onePage.pdf?dl=0)
+* [My calendar](https://calendar.makinteract.com)
 * [Previous website](https://alsoplantsfly.com)
 * [YouTube channel](https://www.youtube.com/channel/UC5A_g3GYEGeoqBqSSJ11NoQ)
 * [Vimeo channel](https://vimeo.com/minimalo)
 * [About me page](https://about.me/andreabianchi)
 * [Department page](https://id.kaist.ac.kr)
+* [One page resume](https://www.dropbox.com/s/1oby67w9i81cnq4/CV_andrea_bianchi_onePage.pdf?dl=0)
