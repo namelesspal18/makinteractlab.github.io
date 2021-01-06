@@ -21,8 +21,8 @@ ID KAIST Master's program is **research-oriented**, which means that on top of y
 
 ## For international applicants
 
-* **Salary is guaranteed** for international students as well.
-* **English** is the main language used for courses and research. Knowing some Korean might help, but it is not necessary.
+* International students are **fully-funded** as well.
+* **English** is the official language used for courses and research. Knowing some Korean might help, but it is not necessary.
 
 ## Admission process
 
@@ -34,6 +34,6 @@ Labs cannot directly accept students. Instead, students interested in our gradua
 
 If you are currently registered as a KAIST student (including a visiting student) and are interested in an internship in our lab or in starting a URP (Undergraduate Research Program) under the supervision of professor Bianchi, please contact him directly via email.
 
-I welcome visiting researchers from other institutions from Korea or abroad with a similar research interest of ours. However, **I only consider applicants recommended to me from colleagues or peers in the HCI field**. I also only consider international applicants that can commit to staying for **a period of at least 6 months**. If you are a foreigner, you also need to obtain a valid VISA through our school's [Visiting Research Program](https://io.kaist.ac.kr/menu/io.do?mguid=D4CD2D0A-21E5-E511-940C-2C44FD7DF8B9). For further information, please contact [KAIST International Office](io.kaist.ac.kr/).
+Our lab welcome visiting researchers from other institutions from Korea or abroad with a similar research interest of ours. However, **we only consider applicants recommended from colleagues or peers in the HCI field**. We also only consider international applicants that can commit to staying for **a period of at least 6 months**. If you are a foreigner, you also need to obtain a valid VISA through our school's [Visiting Research Program](https://io.kaist.ac.kr/menu/io.do?mguid=D4CD2D0A-21E5-E511-940C-2C44FD7DF8B9). For further information, please contact [KAIST International Office](io.kaist.ac.kr/).
 
  <a href="contact.html" class="button button--large">Contact us</a>
