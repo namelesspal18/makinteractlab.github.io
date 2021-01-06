@@ -17,6 +17,8 @@ menu_settings:
       url: '/about'
     - title: 'Sponsors'
       url: '/sponsors'
+    - title: 'Join us'
+      url: '/join'
     - title: 'Contact'
       url: '/contact'
 

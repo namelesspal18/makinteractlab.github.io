@@ -67,7 +67,7 @@ subtitle: Associate Professor - Lab director
 
 
 ## Short Bio
-Andrea received his [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=2) in 2012, his Master's in Computer Science from [NYU](http://www.nyu.edu) and his Laurea (BSc+MS) in business administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home). Before joining KAIST, he worked at [Sungkyunkwan University](www.skku.edu/eng/index.do) as faculty member in the department of Computer Science, and as a video game programmer for a New York startup after earning his Master's degree. Andrea has an _Erdős number_ of 3, and collects [eyeglasses](https://alsoplantsfly.com/images/pictures/profile/glasses.jpg).
+Andrea Bianchi (Korean: 안두리) received his [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=1) in 2012, his Master's in Computer Science from [NYU](http://www.nyu.edu) and his Laurea (BSc+MS) in business administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home). Before joining [KAIST](https://www.kaist.ac.kr/en), he worked at [Sungkyunkwan University](http://www.skku.edu/eng/index.do) as faculty member in the department of Computer Science, and as a video game programmer for a New York startup after earning his Master's degree. Andrea has an _Erdős number_ of 3, and collects [eyeglasses](https://alsoplantsfly.com/images/pictures/profile/glasses.jpg).
 
 ## Experience
 
@@ -121,7 +121,7 @@ Andrea received his [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=2) i
 * Fall: 2016, 2017
 * Spring: 2016, 2018-2020
 
-**ID220 - Interaction Prototyping** (a.k.a. physical computing)
+**ID220 - Interaction Prototyping**
 * Fall: 2018-2020
 
 **ID307 - Interface Design**
