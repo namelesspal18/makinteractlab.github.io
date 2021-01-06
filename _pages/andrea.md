@@ -67,7 +67,7 @@ subtitle: Associate Professor - Lab director
 
 
 ## Short Bio
-Andrea Bianchi (Korean: 안두리) received his [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=1) in 2012, his Master's in Computer Science from [NYU](http://www.nyu.edu) and his Laurea (BSc+MS) in business administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home). Before joining [KAIST](https://www.kaist.ac.kr/en), he worked at [Sungkyunkwan University](http://www.skku.edu/eng/index.do) as a faculty member in the Department of Computer Science, and as a video game programmer for a New York startup after earning his Master's degree. Andrea has an _Erdős number_ of 3 and collects [eyeglasses](https://alsoplantsfly.com/images/pictures/profile/glasses.jpg).
+Andrea Bianchi (Korean: 안두리) received his [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=1) in 2012, his Master's in Computer Science from [NYU](http://www.nyu.edu) and his Laurea (BSc+MS) in business administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home). Before joining [KAIST](https://id.kaist.ac.kr), he worked at [Sungkyunkwan University](http://www.skku.edu/eng/index.do) as a faculty member in the Department of Computer Science, and as a video game programmer for a New York startup after earning his Master's degree. Andrea has an _Erdős number_ of 3 and collects [eyeglasses](https://alsoplantsfly.com/images/pictures/profile/glasses.jpg).
 
 ## Experience
 
@@ -126,3 +126,10 @@ Andrea Bianchi (Korean: 안두리) received his [Ph.D. from KAIST](https://ct.ka
 
 **ID307 - Interface Design**
 * Spring 2016, 2017
+
+## Additional Resources
+* [Previous website](https://alsoplantsfly.com)
+* [YouTube channel](https://www.youtube.com/channel/UC5A_g3GYEGeoqBqSSJ11NoQ)
+* [Vimeo channel](https://vimeo.com/minimalo)
+* [About me page](https://about.me/andreabianchi)
+* [Department page](https://id.kaist.ac.kr)
