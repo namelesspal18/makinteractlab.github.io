@@ -14,10 +14,9 @@ subtitle: Associate Professor - Lab director
     }
     
     @media (max-width: 600px) {              
-   .profile {
-        display: flex;
-        flex-direction: column;
-    }    
+        .profile {
+            flex-direction: column;
+        }    
     }
 
     .profile strong{
@@ -30,13 +29,19 @@ subtitle: Associate Professor - Lab director
         width: 200px;
     }
 
-    .profile a:link{
-        border-bottom: none;
-		color: #6C7A89;
-		font-weight: 300; /* see settings.yml */
+  
+  
+    .links {
+        display: flex;
+        justify-content: space-between;
+        width: 60%;
+        margin: auto;
+        margin-top: 2em;
     }
 
-
+    .links a {
+        flex-grow: 1;
+    }
 
 </style>
 </head>
@@ -44,9 +49,20 @@ subtitle: Associate Professor - Lab director
 
 <div class="profile">
 <img src="/images/people/andrea_bianchi.jpg" alt="{{prof.name}}" class="rounded-circle">
-    <p>
+<div class="description">
+<p>
     <strong>I am a maker</strong> interested in creating tools to help other makers better building prototypes or learning new technical skills. I am specifically interested in <strong>tools for electronics and physical computing, fabrication, and mechanical systems for body augmentation</strong>. I also develop tangible and wearable interfaces for enhancing and altering sensory perception and input capabilities, such as <i>haptic controllers and smart-wearables</i>. 
     </p>
+
+    <div class="links">
+    <!-- <a href="{{prof.homepage}}"><i class="fas fa-3x fa-home" aria-hidden="true"></i></a> -->
+    <a href="http://github.com/{{prof.github}}"><i class="fab fa-2x fa-github" aria-hidden="true"></i></a>
+    <a href="https://www.linkedin.com/in/{{prof.linkedin}}"><i class="fab fa-2x fa-linkedin-in" aria-hidden="true"></i></a>
+    <a href="https://scholar.google.co.kr/citations?user={{prof.scholar}}"><i class="fas fa-2x fa-graduation-cap" aria-hidden="true"></i></a>
+    <a href="#" onclick="(function(){window.open('mailto:{{ prof.email }}');})()"><i class="fas fa-2x fa-envelope"></i></a>
+    </div>
+
+    </div>
 </div>
 
 
