@@ -68,7 +68,7 @@ Seungwoo Je, Yekaterina Abileva, Andrea Bianchi, Jean-Charles Bazin. 2019. **A C
 
 Hui-Shyong Yeo, Juyoung Lee, Hyung-il Kim, Aakar Gupta, Andrea Bianchi, Daniel Vogel, Hideki Koike, Woontack Woo, and Aaron Quigley. 2019. **WRIST: Watch-Ring Interaction and Sensing Technique for Wrist Gestures and Macro-Micro Pointing**. In <i>Proceedings of the 21st International Conference on Human-Computer Interaction with Mobile Devices and Services</i> (_MobileHCI '19_). Association for Computing Machinery, New York, NY, USA, Article 19, 1–15. DOI: [https://doi.org/10.1145/3338286.3340130](https://doi.org/10.1145/3338286.3340130)
 
-Chiu-Hsuan Wang, Chen-Yuan Hsieh, Neng-Hao Yu, Andrea Bianchi, Liwei Chan. H**apticSphere: Physical Support To Enable Precision Touch Interaction in Mobile Mixed-Reality**. In 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (_IEEE VR 2019_) (pp. 331-339). IEEE.
+Chiu-Hsuan Wang, Chen-Yuan Hsieh, Neng-Hao Yu, Andrea Bianchi, Liwei Chan. **HapticSphere: Physical Support To Enable Precision Touch Interaction in Mobile Mixed-Reality**. In 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (_IEEE VR 2019_) (pp. 331-339). IEEE.
 
 ---
 
