@@ -7,14 +7,17 @@ subtitle: Associate Professor - Lab director
 <head>
 <style>
     .profile {
+        display: flex;
+        flex-direction: row;
         width: 80%;
         margin: auto;
-        margin-bottom: 7em;
-        clear: both;
     }
-
-    .text p {
-        float: left;
+    
+    @media (max-width: 600px) {              
+   .profile {
+        display: flex;
+        flex-direction: column;
+    }    
     }
 
     .profile strong{
@@ -22,9 +25,9 @@ subtitle: Associate Professor - Lab director
     }
 
     .profile img{
-        float: left;
         margin: 2em;
-        margin-top: 0;
+        height: 200px;
+        width: 200px;
     }
 
     .profile a:link{
@@ -34,20 +37,21 @@ subtitle: Associate Professor - Lab director
     }
 
 
+
 </style>
 </head>
 
 
-<!-- <div class="profile">
+<div class="profile">
 <img src="/images/people/andrea_bianchi.jpg" alt="{{prof.name}}" class="rounded-circle">
     <p>
     <strong>I am a maker</strong> interested in creating tools to help other makers better building prototypes or learning new technical skills. I am specifically interested in <strong>tools for electronics and physical computing, fabrication, and mechanical systems for body augmentation</strong>. I also develop tangible and wearable interfaces for enhancing and altering sensory perception and input capabilities, such as <i>haptic controllers and smart-wearables</i>. 
     </p>
-</div> -->
+</div>
 
 
 ## Short Bio
-Andrea received his [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=2) in 2012, his Master's in Computer Science from [NYU](http://www.nyu.edu) and his Laurea (BSc+MS) in business administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home). Before joining KAIST, he worked at [Sungkyunkwan University](www.skku.edu/eng/index.do) as faculty member in the department of Computer Science, and as a video game programmer for a New York startup after earning his Master's degree. I have an _Erdős number_ of 3, and I collect [eyeglasses](https://alsoplantsfly.com/images/pictures/profile/glasses.jpg).
+Andrea received his [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=2) in 2012, his Master's in Computer Science from [NYU](http://www.nyu.edu) and his Laurea (BSc+MS) in business administration from [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home). Before joining KAIST, he worked at [Sungkyunkwan University](www.skku.edu/eng/index.do) as faculty member in the department of Computer Science, and as a video game programmer for a New York startup after earning his Master's degree. Andrea has an _Erdős number_ of 3, and collects [eyeglasses](https://alsoplantsfly.com/images/pictures/profile/glasses.jpg).
 
 ## Experience
 
@@ -61,12 +65,14 @@ Andrea received his [Ph.D. from KAIST](https://ct.kaist.ac.kr/main.php?lang=2) i
 
 ## Awards 
 * **KAIST 2020 Technology Innovation Award (공과대학 2020 기술혁신 우수상)**
-* **Best Paper Award** UIST 2020
-* **Best Paper Award** HCI Korea 2018
 * **Excellence Teaching Award Fall 2017** Industrial Design, KAIST
+* **Best Paper Award** UIST 2020
+* **Best Paper Award** MobileHCI 2013
+* **Best Paper Award** HCI Korea 2018
+* **Best Paper Award** HCI Korea 2015
 * **Honorable Mention Award** MobileHCI 2017
-* **Best Poster Award** UIST 2016
 * **Honorable Mention Award** MobileHCI 2016
+* **Best Poster Award** UIST 2016
 
 
 ## Academic Services
