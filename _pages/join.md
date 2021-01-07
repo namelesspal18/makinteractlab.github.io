@@ -9,7 +9,7 @@ We are always looking for passionate students interested in our Ph.D. program an
 
 Students majoring in design and engineering are encouraged to apply by initially sending an email directly to professor Bianchi expressing the intention to formally apply. In your email include links to your personal website, examples of code from your repositories (e.g., a link to GitHub), titles of publications, or any other information that could help us see your potential as a researcher. Apply through [this link](https://admission.kaist.ac.kr).
 
-## For Master's Program Applicants
+## For Master's program applicants
 
 ID KAIST Master's program is **research-oriented**, which means that on top of your coursework you are expected to conduct research. Master's applicants are assigned to labs **after** they have been granted admission to the department. In fact, after admission, all incoming students are allowed to select their preferred choice of the lab, and the department makes the best effort to accommodate these requests (though acceptance to a specific lab is not guaranteed, as it depends on the number of applications received). If you are interested in our Master's program, please go ahead and apply [here](https://admission.kaist.ac.kr).
 
