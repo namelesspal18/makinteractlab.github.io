@@ -45,7 +45,7 @@ Hyein Lee, Yoonji Kim, and Andrea Bianchi. 2020. **MAScreen: Augmenting Speech w
 
 Neung Ryu, Myung Jin Kim, and Andrea Bianchi. 2020. **Demonstration of ElaStick: A Variable Stiffness Display for Rendering Handheld Flexible Object**. In SIGGRAPH Asia 2020 Emerging Technologies (_SA ‘20_). Association for Computing Machinery, New York, NY, USA, Article 5, 1–2. DOI: [https://doi.org/10.1145/3415255.3422894](https://doi.org/10.1145/3415255.3422894)
 
-Hyelip LEe, Andrea Bianchi. **YourSphere: Supporting Flexible Environmental Switching in Open-plan Workspaces via Augmented Reality**. _Archives of Design Research_ 33 (4), 43-52. DOI: [http://dx.doi.org/10.15187/adr.2020.11.33.4.43](http://dx.doi.org/10.15187/adr.2020.11.33.4.43)
+Hyelip Lee, Andrea Bianchi. **YourSphere: Supporting Flexible Environmental Switching in Open-plan Workspaces via Augmented Reality**. _Archives of Design Research_ 33 (4), 43-52. DOI: [http://dx.doi.org/10.15187/adr.2020.11.33.4.43](http://dx.doi.org/10.15187/adr.2020.11.33.4.43)
 
 Hui-Shyong Yeo, Juyoung Lee, Andrea Bianchi, Alejandro Samboy, Hideki Koike, Woontack Woo, and Aaron Quigley. 2020. **WristLens: Enabling Single-Handed Surface Gesture Interaction for Wrist-Worn Devices Using Optical Motion Sensor**. In <i>Proceedings of the Augmented Humans International Conference</i> (_AHs '20_). Association for Computing Machinery, New York, NY, USA, Article 27, 1–8. DOI: [https://doi.org/10.1145/3384657.3384797](https://doi.org/10.1145/3384657.3384797)
 
