@@ -1,6 +1,6 @@
 ---
 title: Join us
-description: How to join the lab
+description: How to join the MAKinteract lab
 ---
 
 ## For prospective Ph.D. students

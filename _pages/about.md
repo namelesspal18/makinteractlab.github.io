@@ -1,7 +1,10 @@
 ---
 title: The Lab
-description: About the MAKinteract lab at KAIST
+description: About the MAKinteract lab at KAIST - HCI, Korea, Haptics, VR, Digital Fabrication, Prototyping tools
 ---
+<head>
+<meta name=”robots” content="index, follow">
+</head>
 
 Hello. **MAKinteract** (**MAK**E + **interact**ion) is a research lab in the department of [Industrial
 Design](http://id.kaist.ac.kr) at [KAIST](http://www.kaist.edu/html/en/index.html) working at the intersection of design and engineering, in the field of Human-Computer Interaction (**HCI**).
