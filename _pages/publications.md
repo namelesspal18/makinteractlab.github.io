@@ -23,11 +23,11 @@ description: Publications at MAKinteract lab
 
 <!-- MODIFY UNDER THIS LINE -->
 
-
-
 <!-- # Conference & Journal Papers -->
 
 ## 2021
+
+Andrea Bianchi. 2021. **An awesome paper**. To appear in _CHI2021_.
 
 Seungwoo Je, Hyunseung Lim, Kongpyung Moon, Shan-Yuan Teng, Jas Brooks, Pedro Lopes, and Andrea Bianchi. 2021. **Elevate: A Walkable Pin-Array for Large Shape-Changing Terrains**. To appear in _CHI 2021_.
 
@@ -54,7 +54,6 @@ Neung Ryu, Myung Jin Kim, and Andrea Bianchi. 2020. **Demonstration of ElaStick:
 Hyelip Lee, Andrea Bianchi. **YourSphere: Supporting Flexible Environmental Switching in Open-plan Workspaces via Augmented Reality**. _Archives of Design Research_ 33 (4), 43-52. DOI: [http://dx.doi.org/10.15187/adr.2020.11.33.4.43](http://dx.doi.org/10.15187/adr.2020.11.33.4.43)
 
 Hui-Shyong Yeo, Juyoung Lee, Andrea Bianchi, Alejandro Samboy, Hideki Koike, Woontack Woo, and Aaron Quigley. 2020. **WristLens: Enabling Single-Handed Surface Gesture Interaction for Wrist-Worn Devices Using Optical Motion Sensor**. In <i>Proceedings of the Augmented Humans International Conference</i> (_AHs '20_). Association for Computing Machinery, New York, NY, USA, Article 27, 1–8. DOI: [https://doi.org/10.1145/3384657.3384797](https://doi.org/10.1145/3384657.3384797)
-
 
 ---
 
@@ -92,7 +91,7 @@ Seungwoo Je, Hyelip Lee, Myung Jin Kim, Minkyeong Lee, Yoonji Kim, Youngkyung Ch
 
 Hyelip Lee, Myung Jin Kim, Byungjoo Lee, and Andrea Bianchi. 2018. **An Artistic Provocation to Explore Effects and Opportunities of Virtual Surreal Spaces**. In <i>Proceedings of the 2018 ACM Conference Companion Publication on Designing Interactive Systems</i> (_DIS '18 Companion_). Association for Computing Machinery, New York, NY, USA, 81–85. DOI: [https://doi.org/10.1145/3197391.3205416](https://doi.org/10.1145/3197391.3205416)
 
-Andrea Bianchi, Seungwoo Je, Hyelip Lee, Ian Oakley. **Enhancing Spatial Input on the Body with a Smart-Ring**. Proceedings of _Korea HCI'18_ [paper](https://alsoplantsfly.com/files/2018/Bianchi_Ring+Touch_KHCI18.pdf) (**Best paper award** 🏆) 
+Andrea Bianchi, Seungwoo Je, Hyelip Lee, Ian Oakley. **Enhancing Spatial Input on the Body with a Smart-Ring**. Proceedings of _Korea HCI'18_ [paper](https://alsoplantsfly.com/files/2018/Bianchi_Ring+Touch_KHCI18.pdf) (**Best paper award** 🏆)
 
 ---
 
@@ -133,7 +132,8 @@ Andrea Bianchi, Ian Oakley and Hyoungshick Kim. 2016. **PassBYOP: Bring Your Own
 Andrea Bianchi and Ian Oakley. **Wearable authentication: Trends and opportunities**. In _it - Information Technology_. Volume 58, Issue 5, Pages 255-262, July 2016 (invited paper). DOI: [https://doi.org/10.1515/itit-2016-0010](https://doi.org/10.1515/itit-2016-0010)
 
 ---
-<!-- 
+
+<!--
 # Patents
 
 TOFILL -->
